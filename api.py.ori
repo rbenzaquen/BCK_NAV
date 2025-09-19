@@ -1,0 +1,61 @@
+import os
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
+
+# Importación de funciones de tu script original
+from bl16z import run_full, log_assets_nav, read_sheet_cell
+
+app = FastAPI(
+    title="Assets NAV & Balance Oracle",
+    version="1.0.0",
+    description="Punto de acceso público para consultar NAV y balances como oráculo"
+)
+
+# Habilitar CORS para permitir llamadas públicas desde cualquier origen
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["GET"],
+    allow_headers=["*"],
+)
+
+@app.get("/v1/full", summary="Run full update")
+async def endpoint_run_full():
+    """
+    Ejecuta todo el flujo: Zerion, Beacon, RAW y usuarios.
+    """
+    try:
+        run_full()
+        return {"status": "success", "message": "Proceso FULL completado"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/v1/midnight", summary="Run midnight-only task")
+async def endpoint_midnight():
+    """
+    Ejecuta solo la tarea de medianoche: log_assets_nav.
+    """
+    try:
+        log_assets_nav()
+        return {"status": "success", "message": "Log_assets_nav ejecutado"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/v1/token_c6", summary="Get Token!C6 value")
+async def endpoint_token_c6():
+    """
+    Lee y devuelve el valor de Token!C6 como oráculo público.
+    """
+    try:
+        # Usamos directamente read_sheet_cell para obtener el valor
+        val = read_sheet_cell("Token", "C6")
+        return {"status": "success", "token_c6": val}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))
+    uvicorn.run("api:app", host="0.0.0.0", port=port, reload=True)
+

@@ -1,0 +1,3081 @@
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1873187.0
+Timestamp: 2025-05-09 00:05:24
+
+✅ MySQL Nav[kbi_1] = 1873187.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1886551.0
+Timestamp: 2025-05-09 00:10:25
+
+✅ MySQL Nav[kbi_1] = 1886551.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1934893.0
+Timestamp: 2025-05-09 04:10:26
+
+✅ MySQL Nav[kbi_1] = 1934893.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2002769.0
+Timestamp: 2025-05-09 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2002769.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1979304.0
+Timestamp: 2025-05-09 08:10:24
+
+✅ MySQL Nav[kbi_1] = 1979304.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1977698.0
+Timestamp: 2025-05-09 10:10:25
+
+✅ MySQL Nav[kbi_1] = 1977698.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1955748.0
+Timestamp: 2025-05-09 12:10:25
+
+✅ MySQL Nav[kbi_1] = 1955748.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1972484.0
+Timestamp: 2025-05-09 15:10:25
+
+✅ MySQL Nav[kbi_1] = 1972484.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1974881.0
+Timestamp: 2025-05-09 16:10:25
+
+✅ MySQL Nav[kbi_1] = 1974881.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1972315.0
+Timestamp: 2025-05-09 17:10:25
+
+✅ MySQL Nav[kbi_1] = 1972315.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1972821.0
+Timestamp: 2025-05-09 18:10:25
+
+✅ MySQL Nav[kbi_1] = 1972821.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1969040.0
+Timestamp: 2025-05-09 20:10:25
+
+✅ MySQL Nav[kbi_1] = 1969040.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1970444.0
+Timestamp: 2025-05-09 22:10:25
+
+✅ MySQL Nav[kbi_1] = 1970444.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1971333.0
+Timestamp: 2025-05-10 00:10:25
+
+✅ MySQL Nav[kbi_1] = 1971333.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1996049.0
+Timestamp: 2025-05-10 04:10:25
+
+✅ MySQL Nav[kbi_1] = 1996049.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1999574.0
+Timestamp: 2025-05-10 06:10:25
+
+✅ MySQL Nav[kbi_1] = 1999574.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2019148.0
+Timestamp: 2025-05-10 08:10:26
+
+✅ MySQL Nav[kbi_1] = 2019148.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2031256.0
+Timestamp: 2025-05-10 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2031256.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2046697.0
+Timestamp: 2025-05-10 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2046697.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2078033.0
+Timestamp: 2025-05-10 15:10:24
+
+✅ MySQL Nav[kbi_1] = 2078033.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2090625.0
+Timestamp: 2025-05-10 16:10:24
+
+✅ MySQL Nav[kbi_1] = 2090625.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2088773.0
+Timestamp: 2025-05-10 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2088773.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2106788.0
+Timestamp: 2025-05-10 18:10:25
+
+✅ MySQL Nav[kbi_1] = 2106788.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2165712.0
+Timestamp: 2025-05-10 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2165712.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142212.0
+Timestamp: 2025-05-10 22:10:25
+
+✅ MySQL Nav[kbi_1] = 2142212.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2130303.0
+Timestamp: 2025-05-11 00:10:25
+
+✅ MySQL Nav[kbi_1] = 2130303.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2097378.0
+Timestamp: 2025-05-11 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2097378.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2098085.0
+Timestamp: 2025-05-11 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2098085.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2113589.0
+Timestamp: 2025-05-11 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2113589.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2126031.0
+Timestamp: 2025-05-11 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2126031.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2100350.0
+Timestamp: 2025-05-11 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2100350.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2091077.0
+Timestamp: 2025-05-11 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2091077.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2108438.0
+Timestamp: 2025-05-11 16:10:26
+
+✅ MySQL Nav[kbi_1] = 2108438.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2101969.0
+Timestamp: 2025-05-11 17:10:24
+
+✅ MySQL Nav[kbi_1] = 2101969.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2102066.0
+Timestamp: 2025-05-11 18:10:25
+
+✅ MySQL Nav[kbi_1] = 2102066.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2110428.0
+Timestamp: 2025-05-11 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2110428.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2137412.0
+Timestamp: 2025-05-11 22:10:24
+
+✅ MySQL Nav[kbi_1] = 2137412.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2113467.0
+Timestamp: 2025-05-12 00:10:25
+
+✅ MySQL Nav[kbi_1] = 2113467.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2152071.0
+Timestamp: 2025-05-12 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2152071.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2161578.0
+Timestamp: 2025-05-12 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2161578.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2156441.0
+Timestamp: 2025-05-12 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2156441.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2140369.0
+Timestamp: 2025-05-12 10:10:26
+
+✅ MySQL Nav[kbi_1] = 2140369.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2098592.0
+Timestamp: 2025-05-12 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2098592.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2065295.0
+Timestamp: 2025-05-12 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2065295.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2061910.0
+Timestamp: 2025-05-12 16:10:25
+
+✅ MySQL Nav[kbi_1] = 2061910.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2063101.0
+Timestamp: 2025-05-12 17:10:24
+
+✅ MySQL Nav[kbi_1] = 2063101.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2085540.0
+Timestamp: 2025-05-12 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2085540.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2095539.0
+Timestamp: 2025-05-12 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2095539.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2070683.0
+Timestamp: 2025-05-12 22:10:25
+
+✅ MySQL Nav[kbi_1] = 2070683.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2053115.0
+Timestamp: 2025-05-13 00:10:25
+
+✅ MySQL Nav[kbi_1] = 2053115.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2070834.0
+Timestamp: 2025-05-13 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2070834.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2078573.0
+Timestamp: 2025-05-13 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2078573.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2088134.0
+Timestamp: 2025-05-13 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2088134.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2124137.0
+Timestamp: 2025-05-13 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2124137.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2143573.0
+Timestamp: 2025-05-13 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2143573.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2191247.0
+Timestamp: 2025-05-13 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2191247.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2206926.0
+Timestamp: 2025-05-13 16:10:26
+
+✅ MySQL Nav[kbi_1] = 2206926.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2206823.0
+Timestamp: 2025-05-13 17:10:24
+
+✅ MySQL Nav[kbi_1] = 2206823.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2219515.0
+Timestamp: 2025-05-13 18:10:25
+
+✅ MySQL Nav[kbi_1] = 2219515.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2216539.0
+Timestamp: 2025-05-13 20:10:26
+
+✅ MySQL Nav[kbi_1] = 2216539.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2235601.0
+Timestamp: 2025-05-13 22:10:26
+
+✅ MySQL Nav[kbi_1] = 2235601.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2185774.0
+Timestamp: 2025-05-14 00:10:25
+
+✅ MySQL Nav[kbi_1] = 2185774.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2211302.0
+Timestamp: 2025-05-14 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2211302.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2149686.0
+Timestamp: 2025-05-14 06:10:26
+
+✅ MySQL Nav[kbi_1] = 2149686.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2156779.0
+Timestamp: 2025-05-14 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2156779.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2168065.0
+Timestamp: 2025-05-14 10:10:24
+
+✅ MySQL Nav[kbi_1] = 2168065.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2135507.0
+Timestamp: 2025-05-14 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2135507.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142476.0
+Timestamp: 2025-05-14 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2142476.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2163215.0
+Timestamp: 2025-05-14 16:10:24
+
+✅ MySQL Nav[kbi_1] = 2163215.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2158682.0
+Timestamp: 2025-05-14 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2158682.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2150701.0
+Timestamp: 2025-05-14 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2150701.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2152969.0
+Timestamp: 2025-05-14 20:10:24
+
+✅ MySQL Nav[kbi_1] = 2152969.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2174585.0
+Timestamp: 2025-05-14 22:10:25
+
+✅ MySQL Nav[kbi_1] = 2174585.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2144511.0
+Timestamp: 2025-05-15 00:10:25
+
+✅ MySQL Nav[kbi_1] = 2144511.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2127172.0
+Timestamp: 2025-05-15 04:10:26
+
+✅ MySQL Nav[kbi_1] = 2127172.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2119420.0
+Timestamp: 2025-05-15 06:10:26
+
+✅ MySQL Nav[kbi_1] = 2119420.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2116463.0
+Timestamp: 2025-05-15 08:10:24
+
+✅ MySQL Nav[kbi_1] = 2116463.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2123389.0
+Timestamp: 2025-05-15 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2123389.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2079307.0
+Timestamp: 2025-05-15 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2079307.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2129273.0
+Timestamp: 2025-05-15 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2129273.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2101880.0
+Timestamp: 2025-05-15 16:10:25
+
+✅ MySQL Nav[kbi_1] = 2101880.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2095863.0
+Timestamp: 2025-05-15 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2095863.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2100529.0
+Timestamp: 2025-05-15 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2100529.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2109016.0
+Timestamp: 2025-05-15 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2109016.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2113863.0
+Timestamp: 2025-05-15 22:10:25
+
+✅ MySQL Nav[kbi_1] = 2113863.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2133516.0
+Timestamp: 2025-05-16 00:10:24
+
+✅ MySQL Nav[kbi_1] = 2133516.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2146070.0
+Timestamp: 2025-05-16 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2146070.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2153106.0
+Timestamp: 2025-05-16 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2153106.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2177259.0
+Timestamp: 2025-05-16 08:10:26
+
+✅ MySQL Nav[kbi_1] = 2177259.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2162169.0
+Timestamp: 2025-05-16 10:10:24
+
+✅ MySQL Nav[kbi_1] = 2162169.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2154156.0
+Timestamp: 2025-05-16 12:10:26
+
+✅ MySQL Nav[kbi_1] = 2154156.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142162.0
+Timestamp: 2025-05-16 15:10:29
+
+✅ MySQL Nav[kbi_1] = 2142162.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2145569.0
+Timestamp: 2025-05-16 16:10:26
+
+✅ MySQL Nav[kbi_1] = 2145569.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2148560.0
+Timestamp: 2025-05-16 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2148560.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2140239.0
+Timestamp: 2025-05-16 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2140239.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2119124.0
+Timestamp: 2025-05-16 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2119124.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2073390.0
+Timestamp: 2025-05-16 22:10:26
+
+✅ MySQL Nav[kbi_1] = 2073390.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2065065.0
+Timestamp: 2025-05-17 00:10:26
+
+✅ MySQL Nav[kbi_1] = 2065065.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2076311.0
+Timestamp: 2025-05-17 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2076311.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2060781.0
+Timestamp: 2025-05-17 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2060781.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2061140.0
+Timestamp: 2025-05-17 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2061140.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2048807.0
+Timestamp: 2025-05-17 10:10:24
+
+✅ MySQL Nav[kbi_1] = 2048807.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2056768.0
+Timestamp: 2025-05-17 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2056768.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2055394.0
+Timestamp: 2025-05-17 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2055394.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2054382.0
+Timestamp: 2025-05-17 16:10:24
+
+✅ MySQL Nav[kbi_1] = 2054382.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2051878.0
+Timestamp: 2025-05-17 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2051878.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2065887.0
+Timestamp: 2025-05-17 18:10:25
+
+✅ MySQL Nav[kbi_1] = 2065887.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2053041.0
+Timestamp: 2025-05-17 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2053041.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2059774.0
+Timestamp: 2025-05-17 22:10:25
+
+✅ MySQL Nav[kbi_1] = 2059774.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2059011.0
+Timestamp: 2025-05-18 00:10:24
+
+✅ MySQL Nav[kbi_1] = 2059011.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2073791.0
+Timestamp: 2025-05-18 04:10:25
+
+✅ MySQL Nav[kbi_1] = 2073791.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2095029.0
+Timestamp: 2025-05-18 06:10:25
+
+✅ MySQL Nav[kbi_1] = 2095029.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2082383.0
+Timestamp: 2025-05-18 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2082383.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2081146.0
+Timestamp: 2025-05-18 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2081146.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2125466.0
+Timestamp: 2025-05-18 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2125466.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2041696.0
+Timestamp: 2025-05-18 15:10:25
+
+✅ MySQL Nav[kbi_1] = 2041696.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2048970.0
+Timestamp: 2025-05-18 16:10:25
+
+✅ MySQL Nav[kbi_1] = 2048970.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1975628.0
+Timestamp: 2025-05-18 17:10:25
+
+✅ MySQL Nav[kbi_1] = 1975628.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2002849.0
+Timestamp: 2025-05-18 18:10:25
+
+✅ MySQL Nav[kbi_1] = 2002849.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2030561.0
+Timestamp: 2025-05-18 20:10:25
+
+✅ MySQL Nav[kbi_1] = 2030561.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2024094.0
+Timestamp: 2025-05-18 22:10:24
+
+✅ MySQL Nav[kbi_1] = 2024094.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1992768.0
+Timestamp: 2025-05-19 00:10:25
+
+✅ MySQL Nav[kbi_1] = 1992768.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1985177.0
+Timestamp: 2025-05-19 04:10:24
+
+✅ MySQL Nav[kbi_1] = 1985177.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1989662.0
+Timestamp: 2025-05-19 06:10:24
+
+✅ MySQL Nav[kbi_1] = 1989662.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2003304.0
+Timestamp: 2025-05-19 08:10:25
+
+✅ MySQL Nav[kbi_1] = 2003304.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 1998114.0
+Timestamp: 2025-05-19 10:10:25
+
+✅ MySQL Nav[kbi_1] = 1998114.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2045361.0
+Timestamp: 2025-05-19 12:10:25
+
+✅ MySQL Nav[kbi_1] = 2045361.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2089003.0
+Timestamp: 2025-05-19 15:10:24
+
+✅ MySQL Nav[kbi_1] = 2089003.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2069736.0
+Timestamp: 2025-05-19 16:10:25
+
+✅ MySQL Nav[kbi_1] = 2069736.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2087983.0
+Timestamp: 2025-05-19 17:10:24
+
+✅ MySQL Nav[kbi_1] = 2087983.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2090824.0
+Timestamp: 2025-05-19 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2090824.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 77231.0
+Timestamp: 2025-05-19 20:10:32
+
+✅ MySQL Nav[kbi_1] = 77231.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2091344.0
+Timestamp: 2025-05-19 22:10:26
+
+✅ MySQL Nav[kbi_1] = 2091344.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2138176.0
+Timestamp: 2025-05-20 00:10:24
+
+✅ MySQL Nav[kbi_1] = 2138176.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2113924.0
+Timestamp: 2025-05-20 04:10:24
+
+✅ MySQL Nav[kbi_1] = 2113924.0
+⚠️ No se pudo abrir la planilla 'KB CAPITAL NEW'. Asegúrate de compartirla con la cuenta de servicio. Error: APIError: [503]: The service is currently unavailable.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2108878.0
+Timestamp: 2025-05-20 06:10:24
+
+✅ MySQL Nav[kbi_1] = 2108878.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2065435.0
+Timestamp: 2025-05-20 10:10:25
+
+✅ MySQL Nav[kbi_1] = 2065435.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2055395.0
+Timestamp: 2025-05-20 12:10:24
+
+✅ MySQL Nav[kbi_1] = 2055395.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2080570.0
+Timestamp: 2025-05-20 15:10:24
+
+✅ MySQL Nav[kbi_1] = 2080570.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2047964.0
+Timestamp: 2025-05-20 16:10:25
+
+✅ MySQL Nav[kbi_1] = 2047964.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2080155.0
+Timestamp: 2025-05-20 17:10:25
+
+✅ MySQL Nav[kbi_1] = 2080155.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2096177.0
+Timestamp: 2025-05-20 18:10:24
+
+✅ MySQL Nav[kbi_1] = 2096177.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 78078.0
+Timestamp: 2025-05-20 20:10:28
+
+✅ MySQL Nav[kbi_1] = 78078.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2109310.0
+Timestamp: 2025-05-20 22:10:31
+
+✅ MySQL Nav[kbi_1] = 2109310.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 0.0
+Timestamp: 2025-05-21 00:10:29
+
+✅ MySQL Nav[kbi_1] = 0.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 0.0
+Timestamp: 2025-05-21 04:10:29
+
+✅ MySQL Nav[kbi_1] = 0.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 0.0
+Timestamp: 2025-05-21 06:10:30
+
+✅ MySQL Nav[kbi_1] = 0.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2110111.0
+Timestamp: 2025-05-21 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2110111.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xaD920e4870b3Ff09D56261F571955990200b863e
+Balance: 77918.0
+Timestamp: 2025-05-21 10:10:24
+
+✅ MySQL Nav[kbi_1] = 77918.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xaD920e4870b3Ff09D56261F571955990200b863e
+Balance: 2142639.0
+Timestamp: 2025-05-21 12:10:22
+
+✅ MySQL Nav[kbi_1] = 2142639.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2068044.0
+Timestamp: 2025-05-21 15:10:28
+
+✅ MySQL Nav[kbi_1] = 2068044.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2063718.0
+Timestamp: 2025-05-21 16:10:30
+
+✅ MySQL Nav[kbi_1] = 2063718.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2094750.0
+Timestamp: 2025-05-21 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2094750.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2101133.0
+Timestamp: 2025-05-21 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2101133.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2114785.0
+Timestamp: 2025-05-21 20:10:35
+
+✅ MySQL Nav[kbi_1] = 2114785.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2161770.0
+Timestamp: 2025-05-21 22:10:34
+
+✅ MySQL Nav[kbi_1] = 2161770.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2169817.0
+Timestamp: 2025-05-22 00:10:30
+
+✅ MySQL Nav[kbi_1] = 2169817.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2186582.0
+Timestamp: 2025-05-22 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2186582.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2233256.0
+Timestamp: 2025-05-22 06:10:30
+
+✅ MySQL Nav[kbi_1] = 2233256.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2207464.0
+Timestamp: 2025-05-22 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2207464.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2210925.0
+Timestamp: 2025-05-22 10:10:30
+
+✅ MySQL Nav[kbi_1] = 2210925.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2223234.0
+Timestamp: 2025-05-22 12:10:30
+
+✅ MySQL Nav[kbi_1] = 2223234.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2214285.0
+Timestamp: 2025-05-22 15:10:31
+
+✅ MySQL Nav[kbi_1] = 2214285.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2219606.0
+Timestamp: 2025-05-22 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2219606.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2209565.0
+Timestamp: 2025-05-22 17:10:30
+
+✅ MySQL Nav[kbi_1] = 2209565.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2201050.0
+Timestamp: 2025-05-22 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2201050.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2206660.0
+Timestamp: 2025-05-22 20:10:30
+
+✅ MySQL Nav[kbi_1] = 2206660.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2218644.0
+Timestamp: 2025-05-22 22:10:30
+
+✅ MySQL Nav[kbi_1] = 2218644.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2262462.0
+Timestamp: 2025-05-23 00:10:30
+
+✅ MySQL Nav[kbi_1] = 2262462.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2223297.0
+Timestamp: 2025-05-23 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2223297.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2229541.0
+Timestamp: 2025-05-23 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2229541.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2223191.0
+Timestamp: 2025-05-23 08:10:30
+
+✅ MySQL Nav[kbi_1] = 2223191.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2128523.0
+Timestamp: 2025-05-23 10:10:28
+
+✅ MySQL Nav[kbi_1] = 2128523.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2152536.0
+Timestamp: 2025-05-23 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2152536.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2152035.0
+Timestamp: 2025-05-23 15:10:30
+
+✅ MySQL Nav[kbi_1] = 2152035.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2149093.0
+Timestamp: 2025-05-23 16:10:30
+
+✅ MySQL Nav[kbi_1] = 2149093.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2135514.0
+Timestamp: 2025-05-23 17:10:30
+
+✅ MySQL Nav[kbi_1] = 2135514.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2119852.0
+Timestamp: 2025-05-23 18:10:30
+
+✅ MySQL Nav[kbi_1] = 2119852.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2118913.0
+Timestamp: 2025-05-23 20:10:30
+
+✅ MySQL Nav[kbi_1] = 2118913.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2112105.0
+Timestamp: 2025-05-23 22:10:31
+
+✅ MySQL Nav[kbi_1] = 2112105.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2130379.0
+Timestamp: 2025-05-24 00:10:29
+
+✅ MySQL Nav[kbi_1] = 2130379.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2136972.0
+Timestamp: 2025-05-24 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2136972.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2136724.0
+Timestamp: 2025-05-24 06:10:31
+
+✅ MySQL Nav[kbi_1] = 2136724.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2148507.0
+Timestamp: 2025-05-24 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2148507.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2136837.0
+Timestamp: 2025-05-24 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2136837.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2140460.0
+Timestamp: 2025-05-24 12:10:30
+
+✅ MySQL Nav[kbi_1] = 2140460.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2140283.0
+Timestamp: 2025-05-24 15:10:30
+
+✅ MySQL Nav[kbi_1] = 2140283.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2134524.0
+Timestamp: 2025-05-24 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2134524.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2132623.0
+Timestamp: 2025-05-24 17:10:30
+
+✅ MySQL Nav[kbi_1] = 2132623.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2129404.0
+Timestamp: 2025-05-24 18:10:31
+
+✅ MySQL Nav[kbi_1] = 2129404.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2108175.0
+Timestamp: 2025-05-24 20:10:30
+
+✅ MySQL Nav[kbi_1] = 2108175.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2083171.0
+Timestamp: 2025-05-24 22:10:30
+
+✅ MySQL Nav[kbi_1] = 2083171.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2101619.0
+Timestamp: 2025-05-25 00:10:30
+
+✅ MySQL Nav[kbi_1] = 2101619.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2091971.0
+Timestamp: 2025-05-25 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2091971.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2071174.0
+Timestamp: 2025-05-25 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2071174.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2088128.0
+Timestamp: 2025-05-25 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2088128.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2103217.0
+Timestamp: 2025-05-25 10:10:30
+
+✅ MySQL Nav[kbi_1] = 2103217.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2090841.0
+Timestamp: 2025-05-25 12:10:30
+
+✅ MySQL Nav[kbi_1] = 2090841.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2102451.0
+Timestamp: 2025-05-25 15:10:31
+
+✅ MySQL Nav[kbi_1] = 2102451.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2104779.0
+Timestamp: 2025-05-25 16:10:28
+
+✅ MySQL Nav[kbi_1] = 2104779.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2106177.0
+Timestamp: 2025-05-25 17:10:30
+
+✅ MySQL Nav[kbi_1] = 2106177.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2114273.0
+Timestamp: 2025-05-25 18:10:30
+
+✅ MySQL Nav[kbi_1] = 2114273.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2130263.0
+Timestamp: 2025-05-25 20:10:30
+
+✅ MySQL Nav[kbi_1] = 2130263.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2141323.0
+Timestamp: 2025-05-25 22:10:30
+
+✅ MySQL Nav[kbi_1] = 2141323.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2131881.0
+Timestamp: 2025-05-26 00:10:29
+
+✅ MySQL Nav[kbi_1] = 2131881.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2168366.0
+Timestamp: 2025-05-26 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2168366.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2150892.0
+Timestamp: 2025-05-26 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2150892.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142695.0
+Timestamp: 2025-05-26 08:10:31
+
+✅ MySQL Nav[kbi_1] = 2142695.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142953.0
+Timestamp: 2025-05-26 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2142953.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2130922.0
+Timestamp: 2025-05-26 12:10:31
+
+✅ MySQL Nav[kbi_1] = 2130922.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2120588.0
+Timestamp: 2025-05-26 15:10:30
+
+✅ MySQL Nav[kbi_1] = 2120588.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2121686.0
+Timestamp: 2025-05-26 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2121686.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2128491.0
+Timestamp: 2025-05-26 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2128491.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2142103.0
+Timestamp: 2025-05-26 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2142103.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2125457.0
+Timestamp: 2025-05-26 22:10:28
+
+✅ MySQL Nav[kbi_1] = 2125457.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2127935.0
+Timestamp: 2025-05-27 00:10:28
+
+✅ MySQL Nav[kbi_1] = 2127935.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2156981.0
+Timestamp: 2025-05-27 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2156981.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2203406.0
+Timestamp: 2025-05-27 06:10:28
+
+✅ MySQL Nav[kbi_1] = 2203406.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2205666.0
+Timestamp: 2025-05-27 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2205666.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2222605.0
+Timestamp: 2025-05-27 10:10:28
+
+✅ MySQL Nav[kbi_1] = 2222605.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2225089.0
+Timestamp: 2025-05-27 12:10:28
+
+✅ MySQL Nav[kbi_1] = 2225089.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2257426.0
+Timestamp: 2025-05-27 15:10:29
+
+✅ MySQL Nav[kbi_1] = 2257426.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2240557.0
+Timestamp: 2025-05-27 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2240557.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2247429.0
+Timestamp: 2025-05-27 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2247429.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2232180.0
+Timestamp: 2025-05-27 18:10:28
+
+✅ MySQL Nav[kbi_1] = 2232180.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2220798.0
+Timestamp: 2025-05-27 20:10:28
+
+✅ MySQL Nav[kbi_1] = 2220798.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2213443.0
+Timestamp: 2025-05-27 22:10:29
+
+✅ MySQL Nav[kbi_1] = 2213443.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2201685.0
+Timestamp: 2025-05-28 00:10:28
+
+✅ MySQL Nav[kbi_1] = 2201685.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2201275.0
+Timestamp: 2025-05-28 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2201275.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2205321.0
+Timestamp: 2025-05-28 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2205321.0
+⚠️ No se pudo abrir la planilla 'KB CAPITAL NEW'. Asegúrate de compartirla con la cuenta de servicio. Error: APIError: [503]: The service is currently unavailable.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2209425.0
+Timestamp: 2025-05-28 08:10:28
+
+✅ MySQL Nav[kbi_1] = 2209425.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2227901.0
+Timestamp: 2025-05-28 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2227901.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2185271.0
+Timestamp: 2025-05-28 12:10:28
+
+✅ MySQL Nav[kbi_1] = 2185271.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2213964.0
+Timestamp: 2025-05-28 15:10:29
+
+✅ MySQL Nav[kbi_1] = 2213964.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2213504.0
+Timestamp: 2025-05-28 16:10:28
+
+✅ MySQL Nav[kbi_1] = 2213504.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2186769.0
+Timestamp: 2025-05-28 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2186769.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2199353.0
+Timestamp: 2025-05-28 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2199353.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2222600.0
+Timestamp: 2025-05-28 20:10:29
+
+✅ MySQL Nav[kbi_1] = 2222600.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2257820.0
+Timestamp: 2025-05-28 22:10:29
+
+✅ MySQL Nav[kbi_1] = 2257820.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2297634.0
+Timestamp: 2025-05-29 00:10:29
+
+✅ MySQL Nav[kbi_1] = 2297634.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2266769.0
+Timestamp: 2025-05-29 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2266769.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2267109.0
+Timestamp: 2025-05-29 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2267109.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2272401.0
+Timestamp: 2025-05-29 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2272401.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2246569.0
+Timestamp: 2025-05-29 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2246569.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2223722.0
+Timestamp: 2025-05-29 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2223722.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2225810.0
+Timestamp: 2025-05-29 15:10:28
+
+✅ MySQL Nav[kbi_1] = 2225810.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2209760.0
+Timestamp: 2025-05-29 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2209760.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2213400.0
+Timestamp: 2025-05-29 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2213400.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2207545.0
+Timestamp: 2025-05-29 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2207545.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2208997.0
+Timestamp: 2025-05-29 20:10:31
+
+✅ MySQL Nav[kbi_1] = 2208997.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2164007.0
+Timestamp: 2025-05-29 22:10:29
+
+✅ MySQL Nav[kbi_1] = 2164007.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2200353.0
+Timestamp: 2025-05-30 00:10:29
+
+✅ MySQL Nav[kbi_1] = 2200353.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2186012.0
+Timestamp: 2025-05-30 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2186012.0
+⚠️ No se pudo abrir la planilla 'KB CAPITAL NEW'. Asegúrate de compartirla con la cuenta de servicio. Error: APIError: [503]: The service is currently unavailable.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2181932.0
+Timestamp: 2025-05-30 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2181932.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2191647.0
+Timestamp: 2025-05-30 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2191647.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2178490.0
+Timestamp: 2025-05-30 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2178490.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2174742.0
+Timestamp: 2025-05-30 12:10:28
+
+✅ MySQL Nav[kbi_1] = 2174742.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2135875.0
+Timestamp: 2025-05-30 15:10:28
+
+✅ MySQL Nav[kbi_1] = 2135875.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2150729.0
+Timestamp: 2025-05-30 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2150729.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2144804.0
+Timestamp: 2025-05-30 17:10:32
+
+✅ MySQL Nav[kbi_1] = 2144804.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2153777.0
+Timestamp: 2025-05-30 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2153777.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2116971.0
+Timestamp: 2025-05-30 20:10:29
+
+✅ MySQL Nav[kbi_1] = 2116971.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2099952.0
+Timestamp: 2025-05-30 22:10:28
+
+✅ MySQL Nav[kbi_1] = 2099952.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2079503.0
+Timestamp: 2025-05-31 00:10:28
+
+✅ MySQL Nav[kbi_1] = 2079503.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2105287.0
+Timestamp: 2025-05-31 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2105287.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2110951.0
+Timestamp: 2025-05-31 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2110951.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2098308.0
+Timestamp: 2025-05-31 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2098308.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2123562.0
+Timestamp: 2025-05-31 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2123562.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2121925.0
+Timestamp: 2025-05-31 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2121925.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2116305.0
+Timestamp: 2025-05-31 15:10:27
+
+✅ MySQL Nav[kbi_1] = 2116305.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2122220.0
+Timestamp: 2025-05-31 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2122220.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2121561.0
+Timestamp: 2025-05-31 17:10:30
+
+✅ MySQL Nav[kbi_1] = 2121561.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2128846.0
+Timestamp: 2025-05-31 18:10:28
+
+✅ MySQL Nav[kbi_1] = 2128846.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2116051.0
+Timestamp: 2025-05-31 20:10:29
+
+✅ MySQL Nav[kbi_1] = 2116051.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2105135.0
+Timestamp: 2025-05-31 22:10:29
+
+✅ MySQL Nav[kbi_1] = 2105135.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2090612.0
+Timestamp: 2025-06-01 00:10:30
+
+✅ MySQL Nav[kbi_1] = 2090612.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2097282.0
+Timestamp: 2025-06-01 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2097282.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2087751.0
+Timestamp: 2025-06-01 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2087751.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2083651.0
+Timestamp: 2025-06-01 08:10:30
+
+✅ MySQL Nav[kbi_1] = 2083651.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2080182.0
+Timestamp: 2025-06-01 10:10:29
+
+✅ MySQL Nav[kbi_1] = 2080182.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2096003.0
+Timestamp: 2025-06-01 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2096003.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2114667.0
+Timestamp: 2025-06-01 15:10:29
+
+✅ MySQL Nav[kbi_1] = 2114667.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2101399.0
+Timestamp: 2025-06-01 16:10:28
+
+✅ MySQL Nav[kbi_1] = 2101399.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2107880.0
+Timestamp: 2025-06-01 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2107880.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2114703.0
+Timestamp: 2025-06-01 18:10:28
+
+✅ MySQL Nav[kbi_1] = 2114703.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2125296.0
+Timestamp: 2025-06-01 20:10:29
+
+✅ MySQL Nav[kbi_1] = 2125296.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2093509.0
+Timestamp: 2025-06-02 04:10:29
+
+✅ MySQL Nav[kbi_1] = 2093509.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2081410.0
+Timestamp: 2025-06-02 06:10:28
+
+✅ MySQL Nav[kbi_1] = 2081410.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2076844.0
+Timestamp: 2025-06-02 08:10:29
+
+✅ MySQL Nav[kbi_1] = 2076844.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2082067.0
+Timestamp: 2025-06-02 10:10:28
+
+✅ MySQL Nav[kbi_1] = 2082067.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2109533.0
+Timestamp: 2025-06-02 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2109533.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2127723.0
+Timestamp: 2025-06-02 15:10:29
+
+✅ MySQL Nav[kbi_1] = 2127723.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2125263.0
+Timestamp: 2025-06-02 16:10:29
+
+✅ MySQL Nav[kbi_1] = 2125263.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2124619.0
+Timestamp: 2025-06-02 17:10:29
+
+✅ MySQL Nav[kbi_1] = 2124619.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2127928.0
+Timestamp: 2025-06-02 18:10:29
+
+✅ MySQL Nav[kbi_1] = 2127928.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2171033.0
+Timestamp: 2025-06-02 20:10:29
+
+✅ MySQL Nav[kbi_1] = 2171033.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2192604.0
+Timestamp: 2025-06-02 22:10:29
+
+✅ MySQL Nav[kbi_1] = 2192604.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2175717.0
+Timestamp: 2025-06-03 00:10:28
+
+✅ MySQL Nav[kbi_1] = 2175717.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2185533.0
+Timestamp: 2025-06-03 04:10:30
+
+✅ MySQL Nav[kbi_1] = 2185533.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2174157.0
+Timestamp: 2025-06-03 06:10:29
+
+✅ MySQL Nav[kbi_1] = 2174157.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2183104.0
+Timestamp: 2025-06-03 08:10:28
+
+✅ MySQL Nav[kbi_1] = 2183104.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2183632.0
+Timestamp: 2025-06-03 10:10:28
+
+✅ MySQL Nav[kbi_1] = 2183632.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2204696.0
+Timestamp: 2025-06-03 12:10:29
+
+✅ MySQL Nav[kbi_1] = 2204696.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2181442.0
+Timestamp: 2025-06-03 15:10:28
+
+✅ MySQL Nav[kbi_1] = 2181442.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2166265.0
+Timestamp: 2025-06-03 20:30:29
+
+✅ MySQL Nav[kbi_1] = 2166265.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2201512.0
+Timestamp: 2025-06-04 00:30:29
+
+✅ MySQL Nav[kbi_1] = 2201512.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2192658.0
+Timestamp: 2025-06-04 04:30:29
+
+✅ MySQL Nav[kbi_1] = 2192658.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2200134.0
+Timestamp: 2025-06-04 06:30:29
+
+✅ MySQL Nav[kbi_1] = 2200134.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2196876.0
+Timestamp: 2025-06-04 08:30:28
+
+✅ MySQL Nav[kbi_1] = 2196876.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2183239.0
+Timestamp: 2025-06-04 10:30:28
+
+✅ MySQL Nav[kbi_1] = 2183239.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2211130.0
+Timestamp: 2025-06-04 12:30:28
+
+✅ MySQL Nav[kbi_1] = 2211130.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2189418.0
+Timestamp: 2025-06-04 16:30:29
+
+✅ MySQL Nav[kbi_1] = 2189418.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2157996.0
+Timestamp: 2025-06-04 18:30:28
+
+✅ MySQL Nav[kbi_1] = 2157996.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+URL: https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e
+Balance: 2155972.0
+Timestamp: 2025-06-04 20:30:30
+
+✅ MySQL Nav[kbi_1] = 2155972.0
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+❌ Error scraping https://debank.com/profile/0xad920e4870b3ff09d56261f571955990200b863e: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+✅ MySQL Nav[kbi_1] = 2,013,606.10
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-05 20:30:04. Net worth = $2,013,606.10
+✅ MySQL Nav[kbi_1] = 2,016,787.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 00:30:06. Net worth = $2,016,787.88
+✅ MySQL Nav[kbi_1] = 2,061,922.55
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 08:30:04. Net worth = $2,061,922.55
+✅ MySQL Nav[kbi_1] = 2,085,333.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 12:30:03. Net worth = $2,085,333.41
+✅ MySQL Nav[kbi_1] = 2,068,750.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 14:30:03. Net worth = $2,068,750.32
+✅ MySQL Nav[kbi_1] = 2,070,492.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 16:30:03. Net worth = $2,070,492.73
+✅ MySQL Nav[kbi_1] = 2,067,344.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 18:30:03. Net worth = $2,067,344.71
+✅ MySQL Nav[kbi_1] = 2,054,221.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 20:30:03. Net worth = $2,054,221.60
+✅ MySQL Nav[kbi_1] = 2,054,669.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-06 22:30:03. Net worth = $2,054,669.62
+✅ MySQL Nav[kbi_1] = 2,062,412.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 00:30:03. Net worth = $2,062,412.39
+✅ MySQL Nav[kbi_1] = 2,070,221.55
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 08:30:02. Net worth = $2,070,221.55
+✅ MySQL Nav[kbi_1] = 2,077,708.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 10:30:03. Net worth = $2,077,708.59
+✅ MySQL Nav[kbi_1] = 2,089,226.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 12:30:03. Net worth = $2,089,226.32
+✅ MySQL Nav[kbi_1] = 2,083,578.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 14:30:04. Net worth = $2,083,578.40
+✅ MySQL Nav[kbi_1] = 2,090,318.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 16:30:03. Net worth = $2,090,318.69
+✅ MySQL Nav[kbi_1] = 2,090,704.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 18:30:03. Net worth = $2,090,704.88
+✅ MySQL Nav[kbi_1] = 2,097,375.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 20:30:03. Net worth = $2,097,375.21
+✅ MySQL Nav[kbi_1] = 2,085,395.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-07 22:30:03. Net worth = $2,085,395.41
+✅ MySQL Nav[kbi_1] = 2,082,701.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 00:30:03. Net worth = $2,082,701.18
+✅ MySQL Nav[kbi_1] = 2,079,502.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 08:30:02. Net worth = $2,079,502.69
+✅ MySQL Nav[kbi_1] = 2,079,872.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 10:30:03. Net worth = $2,079,872.67
+✅ MySQL Nav[kbi_1] = 2,087,935.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 12:30:02. Net worth = $2,087,935.84
+✅ MySQL Nav[kbi_1] = 2,096,707.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 14:30:03. Net worth = $2,096,707.24
+✅ MySQL Nav[kbi_1] = 2,103,007.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 16:30:03. Net worth = $2,103,007.64
+✅ MySQL Nav[kbi_1] = 2,102,168.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 18:30:03. Net worth = $2,102,168.92
+✅ MySQL Nav[kbi_1] = 2,080,577.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 20:30:03. Net worth = $2,080,577.71
+✅ MySQL Nav[kbi_1] = 2,075,533.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-08 22:30:02. Net worth = $2,075,533.01
+✅ MySQL Nav[kbi_1] = 2,063,948.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 00:30:03. Net worth = $2,063,948.85
+✅ MySQL Nav[kbi_1] = 2,104,158.45
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 08:30:03. Net worth = $2,104,158.45
+✅ MySQL Nav[kbi_1] = 2,109,033.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 10:30:03. Net worth = $2,109,033.92
+✅ MySQL Nav[kbi_1] = 2,106,366.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 12:30:03. Net worth = $2,106,366.47
+✅ MySQL Nav[kbi_1] = 2,129,907.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 14:30:03. Net worth = $2,129,907.29
+✅ MySQL Nav[kbi_1] = 2,143,203.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 16:30:03. Net worth = $2,143,203.47
+✅ MySQL Nav[kbi_1] = 2,175,171.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 18:30:03. Net worth = $2,175,171.05
+✅ MySQL Nav[kbi_1] = 2,206,303.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 20:30:04. Net worth = $2,206,303.61
+✅ MySQL Nav[kbi_1] = 2,245,774.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-09 22:30:03. Net worth = $2,245,774.70
+✅ MySQL Nav[kbi_1] = 2,221,986.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 00:30:03. Net worth = $2,221,986.96
+✅ MySQL Nav[kbi_1] = 2,278,652.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 08:30:03. Net worth = $2,278,652.01
+✅ MySQL Nav[kbi_1] = 2,294,085.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 10:30:03. Net worth = $2,294,085.72
+✅ MySQL Nav[kbi_1] = 2,269,585.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 12:30:03. Net worth = $2,269,585.74
+✅ MySQL Nav[kbi_1] = 2,274,989.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 14:30:03. Net worth = $2,274,989.15
+✅ MySQL Nav[kbi_1] = 2,296,502.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 16:30:03. Net worth = $2,296,502.63
+✅ MySQL Nav[kbi_1] = 2,278,359.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 18:30:03. Net worth = $2,278,359.41
+✅ MySQL Nav[kbi_1] = 2,315,740.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 20:30:03. Net worth = $2,315,740.54
+✅ MySQL Nav[kbi_1] = 2,306,648.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-10 22:30:03. Net worth = $2,306,648.57
+✅ MySQL Nav[kbi_1] = 2,310,529.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 00:30:03. Net worth = $2,310,529.78
+✅ MySQL Nav[kbi_1] = 2,289,218.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 08:30:18. Net worth = $2,289,218.12
+✅ MySQL Nav[kbi_1] = 2,329,515.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 10:30:03. Net worth = $2,329,515.08
+✅ MySQL Nav[kbi_1] = 2,352,510.49
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 12:30:03. Net worth = $2,352,510.49
+✅ MySQL Nav[kbi_1] = 2,363,521.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 14:30:03. Net worth = $2,363,521.56
+✅ MySQL Nav[kbi_1] = 2,334,784.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 16:30:03. Net worth = $2,334,784.59
+✅ MySQL Nav[kbi_1] = 2,338,582.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 18:30:03. Net worth = $2,338,582.54
+✅ MySQL Nav[kbi_1] = 2,294,339.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 20:30:03. Net worth = $2,294,339.27
+✅ MySQL Nav[kbi_1] = 2,292,130.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-11 22:30:03. Net worth = $2,292,130.66
+✅ MySQL Nav[kbi_1] = 2,278,349.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 00:30:03. Net worth = $2,278,349.36
+✅ MySQL Nav[kbi_1] = 2,269,680.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 08:30:03. Net worth = $2,269,680.47
+✅ MySQL Nav[kbi_1] = 2,267,339.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 10:30:03. Net worth = $2,267,339.60
+✅ MySQL Nav[kbi_1] = 2,281,570.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 12:30:03. Net worth = $2,281,570.96
+✅ MySQL Nav[kbi_1] = 2,283,769.14
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 14:30:03. Net worth = $2,283,769.14
+✅ MySQL Nav[kbi_1] = 2,267,026.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 16:30:03. Net worth = $2,267,026.41
+✅ MySQL Nav[kbi_1] = 2,198,911.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 18:30:03. Net worth = $2,198,911.54
+✅ MySQL Nav[kbi_1] = 2,200,484.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 20:30:03. Net worth = $2,200,484.12
+✅ MySQL Nav[kbi_1] = 2,072,403.23
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-12 22:30:03. Net worth = $2,072,403.23
+✅ MySQL Nav[kbi_1] = 2,073,993.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 00:30:03. Net worth = $2,073,993.54
+✅ MySQL Nav[kbi_1] = 2,095,802.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 08:30:03. Net worth = $2,095,802.35
+✅ MySQL Nav[kbi_1] = 2,108,973.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 10:30:03. Net worth = $2,108,973.73
+✅ MySQL Nav[kbi_1] = 2,115,485.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 12:30:03. Net worth = $2,115,485.28
+✅ MySQL Nav[kbi_1] = 2,098,941.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 16:30:03. Net worth = $2,098,941.44
+✅ MySQL Nav[kbi_1] = 2,114,279.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 18:30:03. Net worth = $2,114,279.24
+✅ MySQL Nav[kbi_1] = 2,136,247.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 20:30:02. Net worth = $2,136,247.74
+✅ MySQL Nav[kbi_1] = 2,122,134.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-13 22:30:03. Net worth = $2,122,134.71
+✅ MySQL Nav[kbi_1] = 2,120,257.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 00:30:03. Net worth = $2,120,257.09
+✅ MySQL Nav[kbi_1] = 2,100,690.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 06:30:03. Net worth = $2,100,690.37
+✅ MySQL Nav[kbi_1] = 2,104,703.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 08:30:03. Net worth = $2,104,703.71
+✅ MySQL Nav[kbi_1] = 2,106,225.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 10:30:02. Net worth = $2,106,225.89
+✅ MySQL Nav[kbi_1] = 2,095,248.55
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 12:30:03. Net worth = $2,095,248.55
+✅ MySQL Nav[kbi_1] = 2,087,135.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 16:30:03. Net worth = $2,087,135.13
+✅ MySQL Nav[kbi_1] = 2,086,737.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 18:30:03. Net worth = $2,086,737.72
+✅ MySQL Nav[kbi_1] = 2,099,380.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 20:30:03. Net worth = $2,099,380.78
+✅ MySQL Nav[kbi_1] = 2,098,963.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-14 22:30:03. Net worth = $2,098,963.68
+✅ MySQL Nav[kbi_1] = 2,100,789.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 00:30:03. Net worth = $2,100,789.03
+✅ MySQL Nav[kbi_1] = 2,086,046.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 06:30:03. Net worth = $2,086,046.48
+✅ MySQL Nav[kbi_1] = 2,088,347.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 08:30:03. Net worth = $2,088,347.71
+✅ MySQL Nav[kbi_1] = 2,102,732.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 10:30:03. Net worth = $2,102,732.35
+✅ MySQL Nav[kbi_1] = 2,113,809.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 12:30:03. Net worth = $2,113,809.18
+✅ MySQL Nav[kbi_1] = 2,113,270.16
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 16:30:03. Net worth = $2,113,270.16
+✅ MySQL Nav[kbi_1] = 2,081,793.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 18:30:03. Net worth = $2,081,793.74
+✅ MySQL Nav[kbi_1] = 2,109,565.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 20:30:03. Net worth = $2,109,565.44
+✅ MySQL Nav[kbi_1] = 2,096,143.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-15 22:30:03. Net worth = $2,096,143.64
+✅ MySQL Nav[kbi_1] = 2,131,714.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 00:30:02. Net worth = $2,131,714.83
+✅ MySQL Nav[kbi_1] = 2,176,211.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 06:30:03. Net worth = $2,176,211.46
+✅ MySQL Nav[kbi_1] = 2,155,846.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 08:30:03. Net worth = $2,155,846.85
+✅ MySQL Nav[kbi_1] = 2,165,201.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 10:30:02. Net worth = $2,165,201.62
+✅ MySQL Nav[kbi_1] = 2,189,855.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 12:30:03. Net worth = $2,189,855.22
+✅ MySQL Nav[kbi_1] = 2,206,408.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 16:30:03. Net worth = $2,206,408.71
+✅ MySQL Nav[kbi_1] = 2,203,993.07
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 18:30:03. Net worth = $2,203,993.07
+✅ MySQL Nav[kbi_1] = 2,139,867.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 20:30:03. Net worth = $2,139,867.05
+✅ MySQL Nav[kbi_1] = 2,139,361.17
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-16 22:30:03. Net worth = $2,139,361.17
+✅ MySQL Nav[kbi_1] = 2,166,173.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 00:30:03. Net worth = $2,166,173.79
+✅ MySQL Nav[kbi_1] = 2,131,534.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 06:30:03. Net worth = $2,131,534.70
+✅ MySQL Nav[kbi_1] = 2,112,207.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 08:30:02. Net worth = $2,112,207.94
+✅ MySQL Nav[kbi_1] = 2,118,260.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 10:30:03. Net worth = $2,118,260.01
+✅ MySQL Nav[kbi_1] = 2,080,424.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 12:30:03. Net worth = $2,080,424.94
+✅ MySQL Nav[kbi_1] = 2,049,694.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 14:30:03. Net worth = $2,049,694.90
+✅ MySQL Nav[kbi_1] = 2,081,730.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 18:30:02. Net worth = $2,081,730.01
+✅ MySQL Nav[kbi_1] = 2,081,470.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-17 20:30:03. Net worth = $2,081,470.08
+✅ MySQL Nav[kbi_1] = 2,091,332.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 00:30:03. Net worth = $2,091,332.52
+✅ MySQL Nav[kbi_1] = 2,076,982.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 08:30:03. Net worth = $2,076,982.28
+✅ MySQL Nav[kbi_1] = 2,051,660.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 10:30:03. Net worth = $2,051,660.92
+✅ MySQL Nav[kbi_1] = 2,081,862.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 12:30:03. Net worth = $2,081,862.54
+✅ MySQL Nav[kbi_1] = 2,064,878.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 14:30:03. Net worth = $2,064,878.56
+✅ MySQL Nav[kbi_1] = 2,093,632.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 18:30:03. Net worth = $2,093,632.09
+✅ MySQL Nav[kbi_1] = 2,089,694.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-18 20:30:03. Net worth = $2,089,694.83
+✅ MySQL Nav[kbi_1] = 2,086,078.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 00:30:03. Net worth = $2,086,078.22
+✅ MySQL Nav[kbi_1] = 2,092,208.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 06:30:03. Net worth = $2,092,208.18
+✅ MySQL Nav[kbi_1] = 2,095,372.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 08:30:03. Net worth = $2,095,372.44
+✅ MySQL Nav[kbi_1] = 2,077,341.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 10:30:03. Net worth = $2,077,341.39
+✅ MySQL Nav[kbi_1] = 2,060,084.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 12:30:03. Net worth = $2,060,084.67
+✅ MySQL Nav[kbi_1] = 2,064,016.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 14:30:02. Net worth = $2,064,016.54
+✅ MySQL Nav[kbi_1] = 2,078,811.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 18:30:03. Net worth = $2,078,811.09
+✅ MySQL Nav[kbi_1] = 2,090,493.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-19 20:30:03. Net worth = $2,090,493.46
+✅ MySQL Nav[kbi_1] = 2,087,247.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 00:30:03. Net worth = $2,087,247.22
+✅ MySQL Nav[kbi_1] = 2,111,041.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 06:30:03. Net worth = $2,111,041.37
+✅ MySQL Nav[kbi_1] = 2,107,730.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 08:30:03. Net worth = $2,107,730.98
+✅ MySQL Nav[kbi_1] = 2,116,383.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 10:30:03. Net worth = $2,116,383.20
+✅ MySQL Nav[kbi_1] = 2,069,641.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 12:30:03. Net worth = $2,069,641.32
+✅ MySQL Nav[kbi_1] = 2,012,067.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 14:30:03. Net worth = $2,012,067.85
+✅ MySQL Nav[kbi_1] = 2,001,909.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 18:30:03. Net worth = $2,001,909.51
+✅ MySQL Nav[kbi_1] = 1,988,087.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-20 20:30:03. Net worth = $1,988,087.91
+✅ MySQL Nav[kbi_1] = 2,011,839.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 00:30:03. Net worth = $2,011,839.18
+✅ MySQL Nav[kbi_1] = 2,020,115.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 06:30:03. Net worth = $2,020,115.44
+✅ MySQL Nav[kbi_1] = 2,024,020.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 08:30:03. Net worth = $2,024,020.29
+✅ MySQL Nav[kbi_1] = 2,022,119.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 10:30:03. Net worth = $2,022,119.20
+✅ MySQL Nav[kbi_1] = 2,004,025.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 12:30:03. Net worth = $2,004,025.40
+✅ MySQL Nav[kbi_1] = 2,003,282.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 14:30:03. Net worth = $2,003,282.22
+✅ MySQL Nav[kbi_1] = 1,962,728.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 18:30:03. Net worth = $1,962,728.34
+✅ MySQL Nav[kbi_1] = 1,883,482.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-21 20:30:03. Net worth = $1,883,482.99
+✅ MySQL Nav[kbi_1] = 1,876,639.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 00:30:03. Net worth = $1,876,639.67
+✅ MySQL Nav[kbi_1] = 1,876,959.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 06:30:03. Net worth = $1,876,959.51
+✅ MySQL Nav[kbi_1] = 1,887,135.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 08:30:03. Net worth = $1,887,135.25
+✅ MySQL Nav[kbi_1] = 1,846,525.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 10:30:03. Net worth = $1,846,525.20
+✅ MySQL Nav[kbi_1] = 1,823,084.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 12:30:03. Net worth = $1,823,084.09
+✅ MySQL Nav[kbi_1] = 1,823,103.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 14:30:03. Net worth = $1,823,103.12
+✅ MySQL Nav[kbi_1] = 1,826,169.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 18:30:03. Net worth = $1,826,169.33
+✅ MySQL Nav[kbi_1] = 1,861,581.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-22 20:30:03. Net worth = $1,861,581.00
+❌ Falló la consulta a Zerion: Error HTTP 503 de Zerion: upstream connect error or disconnect/reset before headers. reset reason: connection termination
+✅ MySQL Nav[kbi_1] = 1,880,733.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 06:30:03. Net worth = $1,880,733.08
+✅ MySQL Nav[kbi_1] = 1,874,379.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 08:30:03. Net worth = $1,874,379.08
+✅ MySQL Nav[kbi_1] = 1,878,044.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 10:30:03. Net worth = $1,878,044.95
+✅ MySQL Nav[kbi_1] = 1,903,236.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 12:30:03. Net worth = $1,903,236.63
+✅ MySQL Nav[kbi_1] = 1,886,451.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 14:30:03. Net worth = $1,886,451.11
+✅ MySQL Nav[kbi_1] = 1,962,878.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 18:30:03. Net worth = $1,962,878.41
+✅ MySQL Nav[kbi_1] = 2,017,537.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-23 20:30:03. Net worth = $2,017,537.59
+✅ MySQL Nav[kbi_1] = 2,003,754.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 00:30:03. Net worth = $2,003,754.95
+✅ MySQL Nav[kbi_1] = 2,019,005.81
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 06:30:03. Net worth = $2,019,005.81
+✅ MySQL Nav[kbi_1] = 2,007,624.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 08:30:03. Net worth = $2,007,624.47
+✅ MySQL Nav[kbi_1] = 2,014,417.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 10:30:03. Net worth = $2,014,417.00
+✅ MySQL Nav[kbi_1] = 2,029,935.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 12:30:03. Net worth = $2,029,935.41
+✅ MySQL Nav[kbi_1] = 2,044,941.80
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 14:30:03. Net worth = $2,044,941.80
+✅ MySQL Nav[kbi_1] = 2,035,874.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 18:30:03. Net worth = $2,035,874.64
+✅ MySQL Nav[kbi_1] = 2,028,643.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-24 20:30:03. Net worth = $2,028,643.92
+✅ MySQL Nav[kbi_1] = 2,048,635.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 00:30:03. Net worth = $2,048,635.38
+✅ MySQL Nav[kbi_1] = 2,038,220.86
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 06:30:03. Net worth = $2,038,220.86
+✅ MySQL Nav[kbi_1] = 2,018,657.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 08:30:02. Net worth = $2,018,657.63
+✅ MySQL Nav[kbi_1] = 2,035,493.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 10:30:03. Net worth = $2,035,493.03
+✅ MySQL Nav[kbi_1] = 2,014,111.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 12:30:04. Net worth = $2,014,111.84
+✅ MySQL Nav[kbi_1] = 2,025,175.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 14:30:03. Net worth = $2,025,175.64
+✅ MySQL Nav[kbi_1] = 2,031,757.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 18:30:03. Net worth = $2,031,757.92
+✅ MySQL Nav[kbi_1] = 2,015,740.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-25 20:30:03. Net worth = $2,015,740.22
+✅ MySQL Nav[kbi_1] = 2,082,001.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-26 00:30:04. Net worth = $2,082,001.77
+✅ MySQL Nav[kbi_1] = 2,060,556.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-26 06:30:03. Net worth = $2,060,556.90
+✅ MySQL Nav[kbi_1] = 2,013,004.43
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-26 08:30:03. Net worth = $2,013,004.43
+❌ Falló la consulta a Zerion: Error HTTP 520 de Zerion: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>api.zerion.io | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Web server is returning an unknown error</span>
+              <span class="code-label">Error code 520</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2025-06-26 15:32:02 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Buenos Aires</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">api.zerion.io</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">955dbe619ca3ee13</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">181.91.97.211</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+❌ Falló la consulta a Zerion: Error HTTP 520 de Zerion: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>api.zerion.io | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              <span class="inline-block">Web server is returning an unknown error</span>
+              <span class="code-label">Error code 520</span>
+            </h1>
+            <div>
+               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2025-06-26 17:32:02 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Browser
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Buenos Aires</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+    </a>
+  </h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">api.zerion.io</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+    
+    Host
+    
+  </h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">955e6e28df7b3f3a</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">181.91.97.211</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.zerion.io" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+✅ MySQL Nav[kbi_1] = 1,977,098.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-26 18:30:03. Net worth = $1,977,098.70
+❌ Falló la consulta a Zerion: Error HTTP 503 de Zerion: upstream connect error or disconnect/reset before headers. reset reason: connection termination
+✅ MySQL Nav[kbi_1] = 1,989,987.10
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 00:30:03. Net worth = $1,989,987.10
+✅ MySQL Nav[kbi_1] = 1,996,974.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 06:30:03. Net worth = $1,996,974.70
+✅ MySQL Nav[kbi_1] = 1,993,409.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 08:30:03. Net worth = $1,993,409.64
+✅ MySQL Nav[kbi_1] = 1,977,198.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 12:30:03. Net worth = $1,977,198.71
+✅ MySQL Nav[kbi_1] = 1,973,846.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 14:30:03. Net worth = $1,973,846.70
+✅ MySQL Nav[kbi_1] = 1,974,334.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 18:30:03. Net worth = $1,974,334.64
+✅ MySQL Nav[kbi_1] = 1,970,852.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-27 20:30:03. Net worth = $1,970,852.05
+✅ MySQL Nav[kbi_1] = 1,972,609.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 00:30:03. Net worth = $1,972,609.15
+✅ MySQL Nav[kbi_1] = 1,974,330.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 06:30:03. Net worth = $1,974,330.41
+✅ MySQL Nav[kbi_1] = 1,978,625.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 08:30:03. Net worth = $1,978,625.41
+✅ MySQL Nav[kbi_1] = 1,975,377.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 12:30:02. Net worth = $1,975,377.58
+✅ MySQL Nav[kbi_1] = 1,984,805.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 14:30:02. Net worth = $1,984,805.47
+✅ MySQL Nav[kbi_1] = 1,980,325.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 18:30:02. Net worth = $1,980,325.03
+✅ MySQL Nav[kbi_1] = 1,986,919.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-28 20:30:03. Net worth = $1,986,919.59
+✅ MySQL Nav[kbi_1] = 1,981,555.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 00:30:03. Net worth = $1,981,555.52
+✅ MySQL Nav[kbi_1] = 1,992,925.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 06:30:03. Net worth = $1,992,925.59
+✅ MySQL Nav[kbi_1] = 1,999,515.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 08:30:03. Net worth = $1,999,515.24
+✅ MySQL Nav[kbi_1] = 1,988,116.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 12:30:03. Net worth = $1,988,116.77
+✅ MySQL Nav[kbi_1] = 1,985,333.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 14:30:02. Net worth = $1,985,333.83
+✅ MySQL Nav[kbi_1] = 1,979,888.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 18:30:03. Net worth = $1,979,888.37
+✅ MySQL Nav[kbi_1] = 2,041,294.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-29 20:30:03. Net worth = $2,041,294.42
+✅ MySQL Nav[kbi_1] = 2,035,803.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 00:30:03. Net worth = $2,035,803.40
+✅ MySQL Nav[kbi_1] = 2,013,717.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 06:30:04. Net worth = $2,013,717.88
+✅ MySQL Nav[kbi_1] = 2,006,354.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 08:30:02. Net worth = $2,006,354.59
+✅ MySQL Nav[kbi_1] = 1,994,412.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 12:30:03. Net worth = $1,994,412.70
+✅ MySQL Nav[kbi_1] = 2,020,318.82
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 14:30:03. Net worth = $2,020,318.82
+✅ MySQL Nav[kbi_1] = 2,034,415.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 18:30:02. Net worth = $2,034,415.52
+✅ MySQL Nav[kbi_1] = 2,027,820.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-06-30 20:30:03. Net worth = $2,027,820.12
+✅ MySQL Nav[kbi_1] = 2,025,092.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 00:30:02. Net worth = $2,025,092.11
+✅ MySQL Nav[kbi_1] = 2,000,857.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 06:30:02. Net worth = $2,000,857.25
+✅ MySQL Nav[kbi_1] = 1,996,671.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 08:30:03. Net worth = $1,996,671.21
+✅ MySQL Nav[kbi_1] = 1,973,708.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 12:30:04. Net worth = $1,973,708.95
+✅ MySQL Nav[kbi_1] = 1,977,457.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 14:30:02. Net worth = $1,977,457.59
+✅ MySQL Nav[kbi_1] = 1,965,094.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 18:30:03. Net worth = $1,965,094.56
+✅ MySQL Nav[kbi_1] = 1,951,112.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-01 20:30:03. Net worth = $1,951,112.79
+✅ MySQL Nav[kbi_1] = 1,978,067.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-02 00:30:04. Net worth = $1,978,067.27
+✅ MySQL Nav[kbi_1] = 1,997,151.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-02 06:30:03. Net worth = $1,997,151.95
+✅ MySQL Nav[kbi_1] = 2,000,237.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-02 08:30:03. Net worth = $2,000,237.03
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+❌ Falló la consulta a Zerion: HTTPSConnectionPool(host='api.zerion.io', port=443): Max retries exceeded with url: /v1/wallets/0xaD920e4870b3Ff09D56261F571955990200b863e/portfolio/?currency=usd&filter%5Bpositions%5D=no_filter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+✅ MySQL Nav[kbi_1] = 2,014,710.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-03 14:30:03. Net worth = $2,014,710.90

@@ -1,0 +1,2403 @@
+✅ MySQL Nav[kbi_1] = 2,113,642.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-03 18:30:05. Net worth = $2,113,642.42
+✅ MySQL Nav[kbi_1] = 2,111,391.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-03 20:30:05. Net worth = $2,111,391.93
+✅ MySQL Nav[kbi_1] = 2,100,578.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 00:30:05. Net worth = $2,100,578.03
+✅ MySQL Nav[kbi_1] = 2,077,362.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 06:30:05. Net worth = $2,077,362.54
+✅ MySQL Nav[kbi_1] = 2,078,061.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 08:30:05. Net worth = $2,078,061.95
+✅ MySQL Nav[kbi_1] = 2,045,584.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 12:30:05. Net worth = $2,045,584.73
+✅ MySQL Nav[kbi_1] = 2,029,418.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 18:30:05. Net worth = $2,029,418.57
+✅ MySQL Nav[kbi_1] = 2,048,714.06
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-04 20:30:05. Net worth = $2,048,714.06
+✅ MySQL Nav[kbi_1] = 2,053,976.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 00:30:05. Net worth = $2,053,976.90
+✅ MySQL Nav[kbi_1] = 2,046,900.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 06:30:06. Net worth = $2,046,900.34
+✅ MySQL Nav[kbi_1] = 2,054,674.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 08:30:05. Net worth = $2,054,674.62
+✅ MySQL Nav[kbi_1] = 2,050,898.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 12:30:06. Net worth = $2,050,898.85
+✅ MySQL Nav[kbi_1] = 2,044,546.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 18:30:06. Net worth = $2,044,546.60
+✅ MySQL Nav[kbi_1] = 2,053,875.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-05 20:30:06. Net worth = $2,053,875.25
+✅ MySQL Nav[kbi_1] = 2,048,214.43
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 00:30:05. Net worth = $2,048,214.43
+✅ MySQL Nav[kbi_1] = 2,048,658.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 06:30:04. Net worth = $2,048,658.08
+✅ MySQL Nav[kbi_1] = 2,045,517.07
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 08:30:05. Net worth = $2,045,517.07
+✅ MySQL Nav[kbi_1] = 2,084,109.17
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 12:30:05. Net worth = $2,084,109.17
+✅ MySQL Nav[kbi_1] = 2,079,046.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 18:30:05. Net worth = $2,079,046.77
+✅ MySQL Nav[kbi_1] = 2,094,529.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-06 20:30:07. Net worth = $2,094,529.13
+✅ MySQL Nav[kbi_1] = 2,098,986.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 00:30:07. Net worth = $2,098,986.96
+✅ MySQL Nav[kbi_1] = 2,099,868.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 06:30:05. Net worth = $2,099,868.84
+✅ MySQL Nav[kbi_1] = 2,082,784.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 08:30:06. Net worth = $2,082,784.59
+✅ MySQL Nav[kbi_1] = 2,068,057.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 12:30:05. Net worth = $2,068,057.91
+✅ MySQL Nav[kbi_1] = 2,063,678.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 18:30:04. Net worth = $2,063,678.57
+✅ MySQL Nav[kbi_1] = 2,070,043.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-07 20:30:06. Net worth = $2,070,043.96
+✅ MySQL Nav[kbi_1] = 2,062,057.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 00:30:05. Net worth = $2,062,057.99
+✅ MySQL Nav[kbi_1] = 2,076,770.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 06:30:05. Net worth = $2,076,770.18
+✅ MySQL Nav[kbi_1] = 2,098,312.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 08:30:05. Net worth = $2,098,312.04
+✅ MySQL Nav[kbi_1] = 2,091,279.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 12:30:05. Net worth = $2,091,279.51
+✅ MySQL Nav[kbi_1] = 2,122,044.07
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 18:30:05. Net worth = $2,122,044.07
+✅ MySQL Nav[kbi_1] = 2,129,862.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-08 20:30:05. Net worth = $2,129,862.94
+✅ MySQL Nav[kbi_1] = 2,114,954.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 00:30:05. Net worth = $2,114,954.50
+✅ MySQL Nav[kbi_1] = 2,125,102.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 06:30:06. Net worth = $2,125,102.66
+✅ MySQL Nav[kbi_1] = 2,137,053.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 08:30:05. Net worth = $2,137,053.89
+✅ MySQL Nav[kbi_1] = 2,155,918.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 12:30:06. Net worth = $2,155,918.56
+✅ MySQL Nav[kbi_1] = 2,234,786.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 18:30:06. Net worth = $2,234,786.74
+✅ MySQL Nav[kbi_1] = 2,260,024.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-09 20:30:05. Net worth = $2,260,024.83
+✅ MySQL Nav[kbi_1] = 2,266,686.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 00:30:05. Net worth = $2,266,686.05
+✅ MySQL Nav[kbi_1] = 2,267,619.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 06:30:07. Net worth = $2,267,619.20
+✅ MySQL Nav[kbi_1] = 2,264,389.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 08:30:05. Net worth = $2,264,389.21
+✅ MySQL Nav[kbi_1] = 2,255,990.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 12:30:05. Net worth = $2,255,990.58
+✅ MySQL Nav[kbi_1] = 2,283,226.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 18:30:06. Net worth = $2,283,226.46
+✅ MySQL Nav[kbi_1] = 2,385,480.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-10 20:30:05. Net worth = $2,385,480.38
+✅ MySQL Nav[kbi_1] = 2,388,659.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 00:30:06. Net worth = $2,388,659.94
+✅ MySQL Nav[kbi_1] = 2,422,914.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 06:30:05. Net worth = $2,422,914.39
+✅ MySQL Nav[kbi_1] = 2,410,462.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 08:30:06. Net worth = $2,410,462.67
+✅ MySQL Nav[kbi_1] = 2,397,069.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 12:30:04. Net worth = $2,397,069.60
+✅ MySQL Nav[kbi_1] = 2,402,219.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 18:30:05. Net worth = $2,402,219.20
+✅ MySQL Nav[kbi_1] = 2,382,011.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-11 20:30:05. Net worth = $2,382,011.30
+✅ MySQL Nav[kbi_1] = 2,387,958.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 00:30:05. Net worth = $2,387,958.98
+✅ MySQL Nav[kbi_1] = 2,389,752.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 06:30:06. Net worth = $2,389,752.94
+✅ MySQL Nav[kbi_1] = 2,393,611.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 08:30:05. Net worth = $2,393,611.27
+✅ MySQL Nav[kbi_1] = 2,358,371.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 12:30:05. Net worth = $2,358,371.99
+✅ MySQL Nav[kbi_1] = 2,355,347.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 18:30:05. Net worth = $2,355,347.59
+✅ MySQL Nav[kbi_1] = 2,364,295.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-12 20:30:04. Net worth = $2,364,295.60
+✅ MySQL Nav[kbi_1] = 2,376,752.82
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 00:30:07. Net worth = $2,376,752.82
+✅ MySQL Nav[kbi_1] = 2,378,062.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 06:30:06. Net worth = $2,378,062.52
+✅ MySQL Nav[kbi_1] = 2,385,121.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 08:30:04. Net worth = $2,385,121.24
+✅ MySQL Nav[kbi_1] = 2,416,580.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 12:30:05. Net worth = $2,416,580.63
+✅ MySQL Nav[kbi_1] = 2,404,297.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 18:30:05. Net worth = $2,404,297.91
+✅ MySQL Nav[kbi_1] = 2,386,701.10
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-13 20:30:05. Net worth = $2,386,701.10
+✅ MySQL Nav[kbi_1] = 2,421,029.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 00:30:05. Net worth = $2,421,029.58
+❌ Falló la consulta a Zapper: No se pudo parsear la respuesta de Zapper: 'NoneType' object is not subscriptable
+Respuesta completa: {'errors': [{'message': 'Internal Server Error Exception', 'locations': [{'line': 7, 'column': 9}], 'path': ['portfolioV2', 'appBalances'], 'extensions': {'code': 'INTERNAL_SERVER_ERROR'}}], 'data': None}
+✅ MySQL Nav[kbi_1] = 2,473,502.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 08:30:05. Net worth = $2,473,502.61
+✅ MySQL Nav[kbi_1] = 2,432,843.75
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 12:30:07. Net worth = $2,432,843.75
+✅ MySQL Nav[kbi_1] = 2,447,687.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 18:30:03. Net worth = $2,447,687.11
+✅ MySQL Nav[kbi_1] = 2,448,093.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 20:30:03. Net worth = $2,448,093.44
+✅ MySQL Nav[kbi_1] = 2,420,421.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-14 22:30:03. Net worth = $2,420,421.03
+✅ MySQL Nav[kbi_1] = 2,398,657.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 00:30:03. Net worth = $2,398,657.30
+✅ MySQL Nav[kbi_1] = 2,426,272.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 06:30:02. Net worth = $2,426,272.48
+✅ MySQL Nav[kbi_1] = 2,414,057.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 08:30:03. Net worth = $2,414,057.27
+✅ MySQL Nav[kbi_1] = 2,433,688.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 12:30:03. Net worth = $2,433,688.47
+✅ MySQL Nav[kbi_1] = 2,485,019.81
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 14:30:03. Net worth = $2,485,019.81
+✅ MySQL Nav[kbi_1] = 2,490,319.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 18:30:04. Net worth = $2,490,319.30
+✅ MySQL Nav[kbi_1] = 2,544,374.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 20:30:05. Net worth = $2,544,374.79
+✅ MySQL Nav[kbi_1] = 2,554,698.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-15 22:30:03. Net worth = $2,554,698.00
+✅ MySQL Nav[kbi_1] = 2,528,986.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 00:30:03. Net worth = $2,528,986.29
+✅ MySQL Nav[kbi_1] = 2,573,698.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 06:30:03. Net worth = $2,573,698.52
+✅ MySQL Nav[kbi_1] = 2,561,615.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 08:30:03. Net worth = $2,561,615.59
+✅ MySQL Nav[kbi_1] = 2,629,307.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 12:30:03. Net worth = $2,629,307.87
+✅ MySQL Nav[kbi_1] = 2,672,452.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 14:30:04. Net worth = $2,672,452.37
+✅ MySQL Nav[kbi_1] = 2,754,852.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 18:30:03. Net worth = $2,754,852.87
+✅ MySQL Nav[kbi_1] = 2,732,715.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 20:30:03. Net worth = $2,732,715.56
+✅ MySQL Nav[kbi_1] = 2,744,020.07
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-16 22:30:03. Net worth = $2,744,020.07
+✅ MySQL Nav[kbi_1] = 2,707,387.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 00:30:02. Net worth = $2,707,387.11
+✅ MySQL Nav[kbi_1] = 2,811,211.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 06:30:03. Net worth = $2,811,211.21
+✅ MySQL Nav[kbi_1] = 2,798,199.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 08:30:03. Net worth = $2,798,199.52
+✅ MySQL Nav[kbi_1] = 2,770,972.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 12:30:02. Net worth = $2,770,972.31
+✅ MySQL Nav[kbi_1] = 2,764,782.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 14:30:04. Net worth = $2,764,782.97
+✅ MySQL Nav[kbi_1] = 2,835,686.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 18:30:03. Net worth = $2,835,686.52
+✅ MySQL Nav[kbi_1] = 2,855,475.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 20:30:03. Net worth = $2,855,475.89
+✅ MySQL Nav[kbi_1] = 2,902,847.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-17 22:30:02. Net worth = $2,902,847.57
+✅ MySQL Nav[kbi_1] = 2,918,290.86
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 00:30:02. Net worth = $2,918,290.86
+✅ MySQL Nav[kbi_1] = 2,925,786.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 06:30:03. Net worth = $2,925,786.51
+✅ MySQL Nav[kbi_1] = 2,921,352.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 08:30:03. Net worth = $2,921,352.60
+✅ MySQL Nav[kbi_1] = 2,873,801.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 12:30:03. Net worth = $2,873,801.94
+✅ MySQL Nav[kbi_1] = 2,914,126.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 14:30:03. Net worth = $2,914,126.96
+✅ MySQL Nav[kbi_1] = 2,884,821.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 18:30:03. Net worth = $2,884,821.37
+✅ MySQL Nav[kbi_1] = 2,871,805.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 20:30:03. Net worth = $2,871,805.87
+✅ MySQL Nav[kbi_1] = 2,869,327.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-18 22:30:03. Net worth = $2,869,327.36
+✅ MySQL Nav[kbi_1] = 2,910,505.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 00:30:03. Net worth = $2,910,505.02
+✅ MySQL Nav[kbi_1] = 2,889,007.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 06:30:03. Net worth = $2,889,007.94
+✅ MySQL Nav[kbi_1] = 2,893,321.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 08:30:03. Net worth = $2,893,321.46
+✅ MySQL Nav[kbi_1] = 2,885,453.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 12:30:03. Net worth = $2,885,453.67
+✅ MySQL Nav[kbi_1] = 2,880,395.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 14:30:03. Net worth = $2,880,395.52
+✅ MySQL Nav[kbi_1] = 2,877,817.14
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 18:30:03. Net worth = $2,877,817.14
+✅ MySQL Nav[kbi_1] = 2,905,231.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 20:30:03. Net worth = $2,905,231.65
+✅ MySQL Nav[kbi_1] = 2,937,256.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-19 22:30:03. Net worth = $2,937,256.71
+✅ MySQL Nav[kbi_1] = 2,939,149.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 00:30:03. Net worth = $2,939,149.46
+✅ MySQL Nav[kbi_1] = 3,007,985.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 06:30:03. Net worth = $3,007,985.50
+✅ MySQL Nav[kbi_1] = 3,015,775.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 08:30:03. Net worth = $3,015,775.63
+✅ MySQL Nav[kbi_1] = 3,046,853.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 12:30:03. Net worth = $3,046,853.68
+✅ MySQL Nav[kbi_1] = 3,065,646.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 14:30:03. Net worth = $3,065,646.93
+✅ MySQL Nav[kbi_1] = 3,038,935.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 18:30:03. Net worth = $3,038,935.84
+✅ MySQL Nav[kbi_1] = 3,042,333.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 20:30:03. Net worth = $3,042,333.66
+✅ MySQL Nav[kbi_1] = 3,029,392.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-20 22:30:03. Net worth = $3,029,392.36
+✅ MySQL Nav[kbi_1] = 3,051,585.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 00:30:03. Net worth = $3,051,585.38
+✅ MySQL Nav[kbi_1] = 3,062,390.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 06:30:02. Net worth = $3,062,390.03
+✅ MySQL Nav[kbi_1] = 3,094,685.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 08:30:03. Net worth = $3,094,685.31
+✅ MySQL Nav[kbi_1] = 3,117,401.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 12:30:03. Net worth = $3,117,401.77
+✅ MySQL Nav[kbi_1] = 3,069,707.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 14:30:03. Net worth = $3,069,707.13
+✅ MySQL Nav[kbi_1] = 3,048,122.80
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 18:30:03. Net worth = $3,048,122.80
+✅ MySQL Nav[kbi_1] = 3,050,234.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 20:30:03. Net worth = $3,050,234.71
+✅ MySQL Nav[kbi_1] = 3,030,534.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-21 22:30:03. Net worth = $3,030,534.22
+✅ MySQL Nav[kbi_1] = 3,024,471.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 00:30:02. Net worth = $3,024,471.85
+✅ MySQL Nav[kbi_1] = 2,952,524.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 06:30:03. Net worth = $2,952,524.33
+✅ MySQL Nav[kbi_1] = 2,999,088.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 08:30:03. Net worth = $2,999,088.34
+✅ MySQL Nav[kbi_1] = 3,009,253.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 12:30:03. Net worth = $3,009,253.98
+✅ MySQL Nav[kbi_1] = 2,986,962.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 14:30:03. Net worth = $2,986,962.72
+✅ MySQL Nav[kbi_1] = 3,003,398.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 18:30:03. Net worth = $3,003,398.78
+✅ MySQL Nav[kbi_1] = 3,030,188.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 20:30:03. Net worth = $3,030,188.13
+✅ MySQL Nav[kbi_1] = 3,018,473.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-22 22:30:03. Net worth = $3,018,473.96
+✅ MySQL Nav[kbi_1] = 3,031,953.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 00:30:03. Net worth = $3,031,953.41
+✅ MySQL Nav[kbi_1] = 2,974,533.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 06:30:03. Net worth = $2,974,533.67
+✅ MySQL Nav[kbi_1] = 2,974,145.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 08:30:03. Net worth = $2,974,145.77
+✅ MySQL Nav[kbi_1] = 2,923,636.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 12:30:03. Net worth = $2,923,636.32
+✅ MySQL Nav[kbi_1] = 2,891,620.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 14:30:03. Net worth = $2,891,620.84
+✅ MySQL Nav[kbi_1] = 2,871,281.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 18:30:03. Net worth = $2,871,281.39
+✅ MySQL Nav[kbi_1] = 2,937,799.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 20:30:03. Net worth = $2,937,799.15
+✅ MySQL Nav[kbi_1] = 2,949,226.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-23 22:30:03. Net worth = $2,949,226.89
+✅ MySQL Nav[kbi_1] = 2,962,340.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 00:30:03. Net worth = $2,962,340.98
+✅ MySQL Nav[kbi_1] = 2,939,948.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 06:30:03. Net worth = $2,939,948.21
+✅ MySQL Nav[kbi_1] = 2,955,539.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 08:30:03. Net worth = $2,955,539.90
+✅ MySQL Nav[kbi_1] = 3,031,999.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 12:30:03. Net worth = $3,031,999.01
+✅ MySQL Nav[kbi_1] = 3,008,872.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 14:30:03. Net worth = $3,008,872.91
+✅ MySQL Nav[kbi_1] = 3,019,974.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 18:30:02. Net worth = $3,019,974.09
+✅ MySQL Nav[kbi_1] = 3,002,236.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 20:30:03. Net worth = $3,002,236.77
+✅ MySQL Nav[kbi_1] = 2,960,520.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-24 22:30:03. Net worth = $2,960,520.29
+✅ MySQL Nav[kbi_1] = 2,934,555.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 00:30:02. Net worth = $2,934,555.08
+✅ MySQL Nav[kbi_1] = 2,980,804.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 06:30:03. Net worth = $2,980,804.48
+✅ MySQL Nav[kbi_1] = 3,026,798.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 08:30:03. Net worth = $3,026,798.36
+✅ MySQL Nav[kbi_1] = 2,948,779.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 12:30:03. Net worth = $2,948,779.56
+✅ MySQL Nav[kbi_1] = 2,945,157.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 14:30:03. Net worth = $2,945,157.53
+✅ MySQL Nav[kbi_1] = 3,011,378.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 18:30:02. Net worth = $3,011,378.94
+✅ MySQL Nav[kbi_1] = 2,891,028.26
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 20:30:03. Net worth = $2,891,028.26
+✅ MySQL Nav[kbi_1] = 3,009,790.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-25 22:30:03. Net worth = $3,009,790.32
+✅ MySQL Nav[kbi_1] = 3,025,220.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 00:30:02. Net worth = $3,025,220.84
+✅ MySQL Nav[kbi_1] = 3,041,259.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 06:30:02. Net worth = $3,041,259.70
+✅ MySQL Nav[kbi_1] = 3,040,756.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 08:30:03. Net worth = $3,040,756.25
+✅ MySQL Nav[kbi_1] = 3,016,531.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 12:30:03. Net worth = $3,016,531.25
+✅ MySQL Nav[kbi_1] = 3,020,635.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 14:30:03. Net worth = $3,020,635.92
+✅ MySQL Nav[kbi_1] = 3,030,900.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 18:30:03. Net worth = $3,030,900.54
+✅ MySQL Nav[kbi_1] = 3,035,981.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 20:30:03. Net worth = $3,035,981.27
+✅ MySQL Nav[kbi_1] = 3,050,392.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-26 22:30:03. Net worth = $3,050,392.41
+✅ MySQL Nav[kbi_1] = 3,058,545.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 00:30:03. Net worth = $3,058,545.68
+✅ MySQL Nav[kbi_1] = 3,052,588.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 06:30:03. Net worth = $3,052,588.28
+✅ MySQL Nav[kbi_1] = 3,096,581.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 08:30:03. Net worth = $3,096,581.50
+✅ MySQL Nav[kbi_1] = 3,082,014.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 12:30:03. Net worth = $3,082,014.73
+✅ MySQL Nav[kbi_1] = 3,088,968.45
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 14:30:03. Net worth = $3,088,968.45
+✅ MySQL Nav[kbi_1] = 3,095,840.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 18:30:03. Net worth = $3,095,840.39
+✅ MySQL Nav[kbi_1] = 3,121,686.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 20:30:03. Net worth = $3,121,686.27
+✅ MySQL Nav[kbi_1] = 3,123,137.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-27 22:30:03. Net worth = $3,123,137.93
+✅ MySQL Nav[kbi_1] = 3,137,280.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 00:30:03. Net worth = $3,137,280.01
+✅ MySQL Nav[kbi_1] = 3,143,974.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 06:30:03. Net worth = $3,143,974.94
+✅ MySQL Nav[kbi_1] = 3,136,590.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 08:30:03. Net worth = $3,136,590.44
+✅ MySQL Nav[kbi_1] = 3,085,892.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 12:30:03. Net worth = $3,085,892.13
+✅ MySQL Nav[kbi_1] = 3,072,896.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 14:30:03. Net worth = $3,072,896.59
+✅ MySQL Nav[kbi_1] = 3,062,845.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 18:30:03. Net worth = $3,062,845.56
+✅ MySQL Nav[kbi_1] = 3,070,080.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 20:30:03. Net worth = $3,070,080.29
+✅ MySQL Nav[kbi_1] = 3,068,816.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-28 22:30:02. Net worth = $3,068,816.20
+✅ MySQL Nav[kbi_1] = 3,061,956.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 00:30:03. Net worth = $3,061,956.99
+✅ MySQL Nav[kbi_1] = 3,137,125.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 06:30:03. Net worth = $3,137,125.53
+✅ MySQL Nav[kbi_1] = 3,100,346.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 08:30:03. Net worth = $3,100,346.65
+✅ MySQL Nav[kbi_1] = 3,049,334.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 12:30:03. Net worth = $3,049,334.48
+✅ MySQL Nav[kbi_1] = 3,057,724.82
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 14:30:04. Net worth = $3,057,724.82
+✅ MySQL Nav[kbi_1] = 3,045,522.81
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 18:30:03. Net worth = $3,045,522.81
+✅ MySQL Nav[kbi_1] = 3,069,365.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 20:30:03. Net worth = $3,069,365.94
+✅ MySQL Nav[kbi_1] = 3,049,974.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-29 22:30:03. Net worth = $3,049,974.40
+✅ MySQL Nav[kbi_1] = 3,087,363.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 00:30:02. Net worth = $3,087,363.37
+✅ MySQL Nav[kbi_1] = 3,080,265.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 06:30:03. Net worth = $3,080,265.22
+✅ MySQL Nav[kbi_1] = 3,046,060.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 08:30:03. Net worth = $3,046,060.68
+✅ MySQL Nav[kbi_1] = 3,070,107.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 12:30:03. Net worth = $3,070,107.03
+✅ MySQL Nav[kbi_1] = 3,078,475.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 14:30:02. Net worth = $3,078,475.12
+✅ MySQL Nav[kbi_1] = 3,044,553.43
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 18:30:03. Net worth = $3,044,553.43
+✅ MySQL Nav[kbi_1] = 3,062,128.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 20:30:03. Net worth = $3,062,128.57
+✅ MySQL Nav[kbi_1] = 3,103,265.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-30 22:30:03. Net worth = $3,103,265.34
+✅ MySQL Nav[kbi_1] = 3,124,251.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 00:30:02. Net worth = $3,124,251.92
+✅ MySQL Nav[kbi_1] = 3,125,516.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 06:30:03. Net worth = $3,125,516.48
+✅ MySQL Nav[kbi_1] = 3,106,949.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 08:30:03. Net worth = $3,106,949.92
+✅ MySQL Nav[kbi_1] = 3,060,870.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 12:30:03. Net worth = $3,060,870.36
+✅ MySQL Nav[kbi_1] = 3,063,375.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 14:30:02. Net worth = $3,063,375.84
+✅ MySQL Nav[kbi_1] = 3,029,380.12
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 18:30:03. Net worth = $3,029,380.12
+✅ MySQL Nav[kbi_1] = 3,008,625.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 20:30:03. Net worth = $3,008,625.63
+✅ MySQL Nav[kbi_1] = 2,980,851.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-07-31 22:30:03. Net worth = $2,980,851.31
+✅ MySQL Nav[kbi_1] = 3,011,652.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 00:30:03. Net worth = $3,011,652.46
+✅ MySQL Nav[kbi_1] = 2,942,520.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 06:30:03. Net worth = $2,942,520.44
+✅ MySQL Nav[kbi_1] = 2,929,888.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 08:30:03. Net worth = $2,929,888.96
+✅ MySQL Nav[kbi_1] = 2,910,114.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 12:30:03. Net worth = $2,910,114.42
+✅ MySQL Nav[kbi_1] = 2,896,264.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 14:30:03. Net worth = $2,896,264.00
+✅ MySQL Nav[kbi_1] = 2,865,766.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 18:30:03. Net worth = $2,865,766.69
+✅ MySQL Nav[kbi_1] = 2,819,835.14
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 20:30:02. Net worth = $2,819,835.14
+✅ MySQL Nav[kbi_1] = 2,837,768.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-01 22:30:03. Net worth = $2,837,768.57
+✅ MySQL Nav[kbi_1] = 2,855,403.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 00:30:03. Net worth = $2,855,403.83
+✅ MySQL Nav[kbi_1] = 2,830,009.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 06:30:03. Net worth = $2,830,009.34
+✅ MySQL Nav[kbi_1] = 2,834,523.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 08:30:03. Net worth = $2,834,523.96
+✅ MySQL Nav[kbi_1] = 2,823,973.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 12:30:02. Net worth = $2,823,973.09
+✅ MySQL Nav[kbi_1] = 2,814,393.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 14:30:03. Net worth = $2,814,393.79
+✅ MySQL Nav[kbi_1] = 2,765,230.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 18:30:02. Net worth = $2,765,230.57
+✅ MySQL Nav[kbi_1] = 2,739,929.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 20:30:03. Net worth = $2,739,929.13
+✅ MySQL Nav[kbi_1] = 2,765,634.23
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-02 22:30:03. Net worth = $2,765,634.23
+✅ MySQL Nav[kbi_1] = 2,791,041.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 00:30:03. Net worth = $2,791,041.28
+✅ MySQL Nav[kbi_1] = 2,802,732.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 06:30:03. Net worth = $2,802,732.89
+✅ MySQL Nav[kbi_1] = 2,837,907.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 08:30:02. Net worth = $2,837,907.44
+✅ MySQL Nav[kbi_1] = 2,805,390.06
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 12:30:03. Net worth = $2,805,390.06
+✅ MySQL Nav[kbi_1] = 2,825,074.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 14:30:03. Net worth = $2,825,074.15
+✅ MySQL Nav[kbi_1] = 2,836,174.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 18:30:03. Net worth = $2,836,174.36
+✅ MySQL Nav[kbi_1] = 2,845,462.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 20:30:03. Net worth = $2,845,462.27
+✅ MySQL Nav[kbi_1] = 2,868,118.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-03 22:30:02. Net worth = $2,868,118.35
+✅ MySQL Nav[kbi_1] = 2,887,199.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 00:30:03. Net worth = $2,887,199.66
+✅ MySQL Nav[kbi_1] = 2,883,042.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 06:30:03. Net worth = $2,883,042.69
+✅ MySQL Nav[kbi_1] = 2,877,892.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 08:30:03. Net worth = $2,877,892.69
+✅ MySQL Nav[kbi_1] = 2,953,539.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 12:30:03. Net worth = $2,953,539.96
+✅ MySQL Nav[kbi_1] = 2,995,320.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 14:30:04. Net worth = $2,995,320.08
+✅ MySQL Nav[kbi_1] = 3,003,011.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 18:30:03. Net worth = $3,003,011.44
+✅ MySQL Nav[kbi_1] = 3,014,360.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 20:30:03. Net worth = $3,014,360.61
+✅ MySQL Nav[kbi_1] = 2,991,080.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-04 22:30:03. Net worth = $2,991,080.37
+✅ MySQL Nav[kbi_1] = 2,959,551.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 00:30:03. Net worth = $2,959,551.93
+✅ MySQL Nav[kbi_1] = 2,950,942.75
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 06:30:03. Net worth = $2,950,942.75
+✅ MySQL Nav[kbi_1] = 2,979,326.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 08:30:03. Net worth = $2,979,326.73
+✅ MySQL Nav[kbi_1] = 2,896,614.17
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 12:30:03. Net worth = $2,896,614.17
+✅ MySQL Nav[kbi_1] = 2,910,485.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 14:30:02. Net worth = $2,910,485.51
+✅ MySQL Nav[kbi_1] = 2,902,919.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 18:30:03. Net worth = $2,902,919.96
+✅ MySQL Nav[kbi_1] = 2,926,692.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 20:30:03. Net worth = $2,926,692.50
+✅ MySQL Nav[kbi_1] = 2,893,807.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-05 22:30:03. Net worth = $2,893,807.33
+✅ MySQL Nav[kbi_1] = 2,894,947.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 00:30:03. Net worth = $2,894,947.83
+✅ MySQL Nav[kbi_1] = 2,939,307.86
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 06:30:03. Net worth = $2,939,307.86
+✅ MySQL Nav[kbi_1] = 2,932,406.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 08:30:03. Net worth = $2,932,406.79
+✅ MySQL Nav[kbi_1] = 2,937,794.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 12:30:03. Net worth = $2,937,794.09
+✅ MySQL Nav[kbi_1] = 2,957,310.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 14:30:03. Net worth = $2,957,310.61
+✅ MySQL Nav[kbi_1] = 2,978,587.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 18:30:03. Net worth = $2,978,587.27
+✅ MySQL Nav[kbi_1] = 2,880,492.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 20:30:03. Net worth = $2,880,492.22
+✅ MySQL Nav[kbi_1] = 2,890,271.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-06 22:30:03. Net worth = $2,890,271.21
+✅ MySQL Nav[kbi_1] = 2,862,914.79
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 00:30:03. Net worth = $2,862,914.79
+✅ MySQL Nav[kbi_1] = 2,917,490.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 06:30:03. Net worth = $2,917,490.54
+✅ MySQL Nav[kbi_1] = 2,991,352.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 08:30:03. Net worth = $2,991,352.33
+✅ MySQL Nav[kbi_1] = 2,997,899.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 12:30:03. Net worth = $2,997,899.38
+✅ MySQL Nav[kbi_1] = 2,992,568.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 14:30:03. Net worth = $2,992,568.33
+✅ MySQL Nav[kbi_1] = 3,030,891.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 18:30:03. Net worth = $3,030,891.33
+✅ MySQL Nav[kbi_1] = 3,051,880.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 20:30:03. Net worth = $3,051,880.78
+✅ MySQL Nav[kbi_1] = 3,053,816.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-07 22:30:03. Net worth = $3,053,816.53
+✅ MySQL Nav[kbi_1] = 3,092,430.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 00:30:03. Net worth = $3,092,430.04
+✅ MySQL Nav[kbi_1] = 3,045,630.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 06:30:03. Net worth = $3,045,630.65
+✅ MySQL Nav[kbi_1] = 3,059,358.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 08:30:03. Net worth = $3,059,358.62
+✅ MySQL Nav[kbi_1] = 3,098,207.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 12:30:03. Net worth = $3,098,207.67
+✅ MySQL Nav[kbi_1] = 3,125,272.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 14:30:03. Net worth = $3,125,272.11
+✅ MySQL Nav[kbi_1] = 3,164,577.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 18:30:03. Net worth = $3,164,577.01
+✅ MySQL Nav[kbi_1] = 3,150,929.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 20:30:04. Net worth = $3,150,929.27
+✅ MySQL Nav[kbi_1] = 3,145,574.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-08 22:30:03. Net worth = $3,145,574.48
+✅ MySQL Nav[kbi_1] = 3,160,906.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 00:30:02. Net worth = $3,160,906.31
+✅ MySQL Nav[kbi_1] = 3,279,971.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 06:30:03. Net worth = $3,279,971.94
+✅ MySQL Nav[kbi_1] = 3,290,922.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 08:30:03. Net worth = $3,290,922.99
+✅ MySQL Nav[kbi_1] = 3,281,981.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 12:30:03. Net worth = $3,281,981.02
+✅ MySQL Nav[kbi_1] = 3,300,438.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 14:30:03. Net worth = $3,300,438.85
+✅ MySQL Nav[kbi_1] = 3,341,354.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 18:30:02. Net worth = $3,341,354.54
+✅ MySQL Nav[kbi_1] = 3,329,555.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 20:30:03. Net worth = $3,329,555.70
+✅ MySQL Nav[kbi_1] = 3,361,817.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-09 22:30:03. Net worth = $3,361,817.15
+✅ MySQL Nav[kbi_1] = 3,313,828.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 00:30:02. Net worth = $3,313,828.22
+✅ MySQL Nav[kbi_1] = 3,299,582.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 06:30:03. Net worth = $3,299,582.20
+✅ MySQL Nav[kbi_1] = 3,292,241.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 08:30:03. Net worth = $3,292,241.78
+✅ MySQL Nav[kbi_1] = 3,303,874.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 12:30:03. Net worth = $3,303,874.97
+✅ MySQL Nav[kbi_1] = 3,310,443.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 14:30:03. Net worth = $3,310,443.35
+✅ MySQL Nav[kbi_1] = 3,293,489.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 18:30:04. Net worth = $3,293,489.40
+✅ MySQL Nav[kbi_1] = 3,315,079.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 20:30:02. Net worth = $3,315,079.97
+✅ MySQL Nav[kbi_1] = 3,356,527.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-10 22:30:03. Net worth = $3,356,527.11
+✅ MySQL Nav[kbi_1] = 3,358,414.94
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 00:30:03. Net worth = $3,358,414.94
+✅ MySQL Nav[kbi_1] = 3,343,179.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 06:30:03. Net worth = $3,343,179.24
+✅ MySQL Nav[kbi_1] = 3,293,988.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 08:30:02. Net worth = $3,293,988.39
+✅ MySQL Nav[kbi_1] = 3,354,460.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 12:30:03. Net worth = $3,354,460.78
+✅ MySQL Nav[kbi_1] = 3,361,446.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 14:30:03. Net worth = $3,361,446.67
+✅ MySQL Nav[kbi_1] = 3,320,084.33
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 18:30:03. Net worth = $3,320,084.33
+✅ MySQL Nav[kbi_1] = 3,306,981.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 20:30:02. Net worth = $3,306,981.52
+✅ MySQL Nav[kbi_1] = 3,347,748.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-11 22:30:03. Net worth = $3,347,748.69
+✅ MySQL Nav[kbi_1] = 3,350,709.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 00:30:03. Net worth = $3,350,709.51
+✅ MySQL Nav[kbi_1] = 3,362,928.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 06:30:03. Net worth = $3,362,928.04
+✅ MySQL Nav[kbi_1] = 3,342,617.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 08:30:03. Net worth = $3,342,617.64
+✅ MySQL Nav[kbi_1] = 3,463,223.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 12:30:03. Net worth = $3,463,223.66
+✅ MySQL Nav[kbi_1] = 3,514,382.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 14:30:03. Net worth = $3,514,382.74
+✅ MySQL Nav[kbi_1] = 3,617,497.13
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 18:30:03. Net worth = $3,617,497.13
+✅ MySQL Nav[kbi_1] = 3,610,515.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 20:30:03. Net worth = $3,610,515.90
+✅ MySQL Nav[kbi_1] = 3,600,505.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-12 22:30:03. Net worth = $3,600,505.95
+✅ MySQL Nav[kbi_1] = 3,634,031.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 00:30:02. Net worth = $3,634,031.74
+✅ MySQL Nav[kbi_1] = 3,645,443.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 06:30:03. Net worth = $3,645,443.52
+✅ MySQL Nav[kbi_1] = 3,681,444.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 08:30:03. Net worth = $3,681,444.08
+✅ MySQL Nav[kbi_1] = 3,631,900.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 12:30:03. Net worth = $3,631,900.72
+✅ MySQL Nav[kbi_1] = 3,697,484.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 14:30:03. Net worth = $3,697,484.36
+✅ MySQL Nav[kbi_1] = 3,723,866.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 18:30:02. Net worth = $3,723,866.92
+✅ MySQL Nav[kbi_1] = 3,718,408.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 20:30:03. Net worth = $3,718,408.88
+✅ MySQL Nav[kbi_1] = 3,699,126.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-13 22:30:03. Net worth = $3,699,126.69
+✅ MySQL Nav[kbi_1] = 3,723,113.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 00:30:02. Net worth = $3,723,113.21
+✅ MySQL Nav[kbi_1] = 3,712,846.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 06:30:03. Net worth = $3,712,846.88
+✅ MySQL Nav[kbi_1] = 3,683,935.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 08:30:03. Net worth = $3,683,935.46
+✅ MySQL Nav[kbi_1] = 3,590,222.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 12:30:02. Net worth = $3,590,222.66
+✅ MySQL Nav[kbi_1] = 3,551,681.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 14:30:03. Net worth = $3,551,681.42
+✅ MySQL Nav[kbi_1] = 3,738,476.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 18:30:02. Net worth = $3,738,476.61
+✅ MySQL Nav[kbi_1] = 3,789,994.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 20:30:03. Net worth = $3,789,994.84
+✅ MySQL Nav[kbi_1] = 3,809,763.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-14 22:30:03. Net worth = $3,809,763.95
+✅ MySQL Nav[kbi_1] = 3,850,960.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 00:30:03. Net worth = $3,850,960.30
+✅ MySQL Nav[kbi_1] = 3,845,402.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 06:30:04. Net worth = $3,845,402.32
+✅ MySQL Nav[kbi_1] = 3,574,582.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 08:30:03. Net worth = $3,574,582.15
+✅ MySQL Nav[kbi_1] = 3,438,801.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 12:30:03. Net worth = $3,438,801.91
+✅ MySQL Nav[kbi_1] = 3,407,458.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 14:30:02. Net worth = $3,407,458.87
+✅ MySQL Nav[kbi_1] = 3,406,553.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 18:30:02. Net worth = $3,406,553.97
+✅ MySQL Nav[kbi_1] = 3,415,513.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 20:30:02. Net worth = $3,415,513.47
+✅ MySQL Nav[kbi_1] = 3,450,177.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-15 22:30:02. Net worth = $3,450,177.65
+✅ MySQL Nav[kbi_1] = 3,439,540.23
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 00:30:03. Net worth = $3,439,540.23
+✅ MySQL Nav[kbi_1] = 3,441,411.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 06:30:03. Net worth = $3,441,411.73
+✅ MySQL Nav[kbi_1] = 3,404,061.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 08:30:03. Net worth = $3,404,061.73
+✅ MySQL Nav[kbi_1] = 3,407,356.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 12:30:03. Net worth = $3,407,356.50
+✅ MySQL Nav[kbi_1] = 3,400,198.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 14:30:03. Net worth = $3,400,198.95
+✅ MySQL Nav[kbi_1] = 3,418,447.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 18:30:02. Net worth = $3,418,447.18
+✅ MySQL Nav[kbi_1] = 3,409,126.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 20:30:03. Net worth = $3,409,126.38
+✅ MySQL Nav[kbi_1] = 3,403,519.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-16 22:30:03. Net worth = $3,403,519.28
+✅ MySQL Nav[kbi_1] = 3,421,244.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 00:30:03. Net worth = $3,421,244.59
+✅ MySQL Nav[kbi_1] = 3,513,913.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 06:30:03. Net worth = $3,513,913.48
+✅ MySQL Nav[kbi_1] = 3,518,381.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 08:30:03. Net worth = $3,518,381.97
+✅ MySQL Nav[kbi_1] = 3,514,348.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 12:30:02. Net worth = $3,514,348.63
+✅ MySQL Nav[kbi_1] = 3,486,939.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 14:30:04. Net worth = $3,486,939.34
+✅ MySQL Nav[kbi_1] = 3,449,266.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 18:30:03. Net worth = $3,449,266.30
+✅ MySQL Nav[kbi_1] = 3,474,731.66
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 20:30:03. Net worth = $3,474,731.66
+✅ MySQL Nav[kbi_1] = 3,436,991.10
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-17 22:30:03. Net worth = $3,436,991.10
+✅ MySQL Nav[kbi_1] = 3,331,861.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 00:30:03. Net worth = $3,331,861.87
+✅ MySQL Nav[kbi_1] = 3,270,398.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 06:30:03. Net worth = $3,270,398.78
+✅ MySQL Nav[kbi_1] = 3,297,119.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 08:30:03. Net worth = $3,297,119.31
+✅ MySQL Nav[kbi_1] = 3,332,576.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 12:30:02. Net worth = $3,332,576.92
+✅ MySQL Nav[kbi_1] = 3,358,519.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 14:30:03. Net worth = $3,358,519.87
+✅ MySQL Nav[kbi_1] = 3,412,934.07
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 18:30:03. Net worth = $3,412,934.07
+✅ MySQL Nav[kbi_1] = 3,394,363.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 20:30:04. Net worth = $3,394,363.96
+✅ MySQL Nav[kbi_1] = 3,388,525.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-18 22:30:03. Net worth = $3,388,525.03
+✅ MySQL Nav[kbi_1] = 3,340,936.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 00:30:03. Net worth = $3,340,936.64
+✅ MySQL Nav[kbi_1] = 3,349,709.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 06:30:03. Net worth = $3,349,709.00
+✅ MySQL Nav[kbi_1] = 3,373,729.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 08:30:03. Net worth = $3,373,729.54
+✅ MySQL Nav[kbi_1] = 3,298,304.06
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 12:30:03. Net worth = $3,298,304.06
+✅ MySQL Nav[kbi_1] = 3,263,418.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 14:30:03. Net worth = $3,263,418.65
+✅ MySQL Nav[kbi_1] = 3,247,322.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 18:30:02. Net worth = $3,247,322.31
+✅ MySQL Nav[kbi_1] = 3,222,977.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 20:30:03. Net worth = $3,222,977.50
+✅ MySQL Nav[kbi_1] = 3,208,600.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-19 22:30:03. Net worth = $3,208,600.53
+✅ MySQL Nav[kbi_1] = 3,247,675.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 00:30:03. Net worth = $3,247,675.65
+✅ MySQL Nav[kbi_1] = 3,309,429.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 06:30:03. Net worth = $3,309,429.04
+✅ MySQL Nav[kbi_1] = 3,290,310.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 08:30:03. Net worth = $3,290,310.85
+✅ MySQL Nav[kbi_1] = 3,369,544.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 12:30:03. Net worth = $3,369,544.95
+✅ MySQL Nav[kbi_1] = 3,374,176.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 14:30:03. Net worth = $3,374,176.38
+✅ MySQL Nav[kbi_1] = 3,390,921.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 18:30:03. Net worth = $3,390,921.54
+✅ MySQL Nav[kbi_1] = 3,399,458.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 20:30:03. Net worth = $3,399,458.32
+✅ MySQL Nav[kbi_1] = 3,378,819.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-20 22:30:03. Net worth = $3,378,819.05
+✅ MySQL Nav[kbi_1] = 3,375,850.82
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 00:30:03. Net worth = $3,375,850.82
+✅ MySQL Nav[kbi_1] = 3,343,683.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 06:30:03. Net worth = $3,343,683.22
+✅ MySQL Nav[kbi_1] = 3,368,136.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 08:30:03. Net worth = $3,368,136.83
+✅ MySQL Nav[kbi_1] = 3,330,894.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 12:30:03. Net worth = $3,330,894.24
+✅ MySQL Nav[kbi_1] = 3,306,340.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 14:30:03. Net worth = $3,306,340.52
+✅ MySQL Nav[kbi_1] = 3,319,496.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 18:30:03. Net worth = $3,319,496.38
+✅ MySQL Nav[kbi_1] = 3,313,844.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 20:30:03. Net worth = $3,313,844.37
+✅ MySQL Nav[kbi_1] = 3,327,540.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-21 22:30:03. Net worth = $3,327,540.03
+✅ MySQL Nav[kbi_1] = 3,352,512.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 00:30:03. Net worth = $3,352,512.85
+✅ MySQL Nav[kbi_1] = 3,377,353.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 06:30:03. Net worth = $3,377,353.70
+✅ MySQL Nav[kbi_1] = 3,352,086.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 08:30:03. Net worth = $3,352,086.74
+✅ MySQL Nav[kbi_1] = 4,483,297.46
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 12:30:03. Net worth = $4,483,297.46
+✅ MySQL Nav[kbi_1] = 4,814,241.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 14:30:03. Net worth = $4,814,241.99
+✅ MySQL Nav[kbi_1] = 4,755,623.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 18:30:03. Net worth = $4,755,623.25
+✅ MySQL Nav[kbi_1] = 4,720,544.19
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 20:30:03. Net worth = $4,720,544.19
+✅ MySQL Nav[kbi_1] = 4,678,405.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-22 22:30:03. Net worth = $4,678,405.74
+✅ MySQL Nav[kbi_1] = 4,619,365.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 00:30:03. Net worth = $4,619,365.48
+✅ MySQL Nav[kbi_1] = 4,627,358.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 06:30:03. Net worth = $4,627,358.44
+✅ MySQL Nav[kbi_1] = 4,622,552.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 08:30:03. Net worth = $4,622,552.99
+✅ MySQL Nav[kbi_1] = 4,635,676.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 12:30:03. Net worth = $4,635,676.65
+✅ MySQL Nav[kbi_1] = 4,629,873.86
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 14:30:03. Net worth = $4,629,873.86
+✅ MySQL Nav[kbi_1] = 4,637,861.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 18:30:03. Net worth = $4,637,861.02
+✅ MySQL Nav[kbi_1] = 4,678,988.75
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 20:30:03. Net worth = $4,678,988.75
+✅ MySQL Nav[kbi_1] = 4,656,352.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-23 22:30:03. Net worth = $4,656,352.68
+✅ MySQL Nav[kbi_1] = 4,656,107.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 00:30:03. Net worth = $4,656,107.50
+✅ MySQL Nav[kbi_1] = 4,660,573.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 06:30:03. Net worth = $4,660,573.34
+✅ MySQL Nav[kbi_1] = 4,629,839.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 08:30:02. Net worth = $4,629,839.95
+✅ MySQL Nav[kbi_1] = 4,694,361.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 12:30:03. Net worth = $4,694,361.50
+✅ MySQL Nav[kbi_1] = 4,726,351.78
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 14:30:03. Net worth = $4,726,351.78
+✅ MySQL Nav[kbi_1] = 4,663,428.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 18:30:03. Net worth = $4,663,428.08
+✅ MySQL Nav[kbi_1] = 4,668,882.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 20:30:03. Net worth = $4,668,882.41
+✅ MySQL Nav[kbi_1] = 4,620,509.19
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-24 22:30:03. Net worth = $4,620,509.19
+✅ MySQL Nav[kbi_1] = 4,624,733.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 00:30:03. Net worth = $4,624,733.05
+✅ MySQL Nav[kbi_1] = 4,498,674.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 06:30:02. Net worth = $4,498,674.11
+✅ MySQL Nav[kbi_1] = 4,474,991.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 08:30:03. Net worth = $4,474,991.41
+✅ MySQL Nav[kbi_1] = 4,531,556.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 12:30:03. Net worth = $4,531,556.01
+✅ MySQL Nav[kbi_1] = 4,502,527.49
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 14:30:02. Net worth = $4,502,527.49
+✅ MySQL Nav[kbi_1] = 4,296,065.82
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 18:30:03. Net worth = $4,296,065.82
+✅ MySQL Nav[kbi_1] = 4,300,904.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 20:30:02. Net worth = $4,300,904.11
+✅ MySQL Nav[kbi_1] = 4,314,271.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-25 22:30:03. Net worth = $4,314,271.61
+✅ MySQL Nav[kbi_1] = 4,327,153.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 00:30:03. Net worth = $4,327,153.54
+✅ MySQL Nav[kbi_1] = 4,361,167.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 06:30:03. Net worth = $4,361,167.96
+✅ MySQL Nav[kbi_1] = 4,348,215.16
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 08:30:03. Net worth = $4,348,215.16
+✅ MySQL Nav[kbi_1] = 4,446,275.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 12:30:03. Net worth = $4,446,275.89
+✅ MySQL Nav[kbi_1] = 4,465,288.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 14:30:03. Net worth = $4,465,288.04
+✅ MySQL Nav[kbi_1] = 4,287,571.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 18:30:03. Net worth = $4,287,571.28
+✅ MySQL Nav[kbi_1] = 4,351,174.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 20:30:02. Net worth = $4,351,174.99
+✅ MySQL Nav[kbi_1] = 4,307,672.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-26 22:30:03. Net worth = $4,307,672.37
+✅ MySQL Nav[kbi_1] = 4,300,810.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 00:30:03. Net worth = $4,300,810.00
+✅ MySQL Nav[kbi_1] = 4,344,478.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 06:30:03. Net worth = $4,344,478.09
+✅ MySQL Nav[kbi_1] = 4,334,216.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 08:30:03. Net worth = $4,334,216.00
+✅ MySQL Nav[kbi_1] = 4,368,949.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 12:30:03. Net worth = $4,368,949.48
+✅ MySQL Nav[kbi_1] = 4,371,285.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 14:30:03. Net worth = $4,371,285.91
+✅ MySQL Nav[kbi_1] = 4,315,963.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 18:30:03. Net worth = $4,315,963.37
+✅ MySQL Nav[kbi_1] = 4,274,814.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 20:30:03. Net worth = $4,274,814.63
+✅ MySQL Nav[kbi_1] = 4,268,119.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-27 22:30:03. Net worth = $4,268,119.30
+✅ MySQL Nav[kbi_1] = 4,299,677.24
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 00:30:03. Net worth = $4,299,677.24
+✅ MySQL Nav[kbi_1] = 4,352,927.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 06:30:03. Net worth = $4,352,927.95
+✅ MySQL Nav[kbi_1] = 4,353,287.19
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 08:30:02. Net worth = $4,353,287.19
+✅ MySQL Nav[kbi_1] = 4,288,639.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 12:30:03. Net worth = $4,288,639.83
+✅ MySQL Nav[kbi_1] = 4,266,171.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 14:30:03. Net worth = $4,266,171.41
+✅ MySQL Nav[kbi_1] = 4,256,516.29
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 18:30:03. Net worth = $4,256,516.29
+✅ MySQL Nav[kbi_1] = 4,274,033.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 20:30:03. Net worth = $4,274,033.02
+✅ MySQL Nav[kbi_1] = 4,228,484.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-28 22:30:03. Net worth = $4,228,484.22
+✅ MySQL Nav[kbi_1] = 4,252,461.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 00:30:03. Net worth = $4,252,461.40
+✅ MySQL Nav[kbi_1] = 4,128,275.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 06:30:03. Net worth = $4,128,275.35
+✅ MySQL Nav[kbi_1] = 4,134,668.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 08:30:03. Net worth = $4,134,668.84
+✅ MySQL Nav[kbi_1] = 4,110,072.54
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 12:30:03. Net worth = $4,110,072.54
+✅ MySQL Nav[kbi_1] = 4,122,500.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 14:30:03. Net worth = $4,122,500.01
+✅ MySQL Nav[kbi_1] = 4,110,703.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 18:30:03. Net worth = $4,110,703.42
+✅ MySQL Nav[kbi_1] = 4,135,339.88
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 20:30:03. Net worth = $4,135,339.88
+✅ MySQL Nav[kbi_1] = 4,104,428.45
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-29 22:30:03. Net worth = $4,104,428.45
+✅ MySQL Nav[kbi_1] = 4,132,505.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 00:30:03. Net worth = $4,132,505.64
+✅ MySQL Nav[kbi_1] = 4,154,985.95
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 06:30:03. Net worth = $4,154,985.95
+✅ MySQL Nav[kbi_1] = 4,160,250.99
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 08:30:03. Net worth = $4,160,250.99
+✅ MySQL Nav[kbi_1] = 4,146,432.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 12:30:03. Net worth = $4,146,432.85
+✅ MySQL Nav[kbi_1] = 4,141,527.75
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 14:30:03. Net worth = $4,141,527.75
+✅ MySQL Nav[kbi_1] = 4,122,515.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 18:30:03. Net worth = $4,122,515.52
+✅ MySQL Nav[kbi_1] = 4,145,760.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 20:30:03. Net worth = $4,145,760.96
+✅ MySQL Nav[kbi_1] = 4,198,250.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-30 22:30:03. Net worth = $4,198,250.44
+✅ MySQL Nav[kbi_1] = 4,213,163.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 00:30:03. Net worth = $4,213,163.34
+✅ MySQL Nav[kbi_1] = 4,221,278.06
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 06:30:03. Net worth = $4,221,278.06
+✅ MySQL Nav[kbi_1] = 4,211,285.69
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 08:30:02. Net worth = $4,211,285.69
+✅ MySQL Nav[kbi_1] = 4,218,313.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 12:30:03. Net worth = $4,218,313.47
+✅ MySQL Nav[kbi_1] = 4,230,432.03
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 14:30:03. Net worth = $4,230,432.03
+✅ MySQL Nav[kbi_1] = 4,215,838.50
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 18:30:03. Net worth = $4,215,838.50
+✅ MySQL Nav[kbi_1] = 4,173,061.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 20:30:03. Net worth = $4,173,061.04
+✅ MySQL Nav[kbi_1] = 4,167,311.01
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-08-31 22:30:03. Net worth = $4,167,311.01
+✅ MySQL Nav[kbi_1] = 4,138,163.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 00:30:03. Net worth = $4,138,163.98
+✅ MySQL Nav[kbi_1] = 4,232,806.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 06:30:03. Net worth = $4,232,806.51
+✅ MySQL Nav[kbi_1] = 4,165,266.27
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 08:30:03. Net worth = $4,165,266.27
+✅ MySQL Nav[kbi_1] = 4,147,203.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 12:30:03. Net worth = $4,147,203.92
+✅ MySQL Nav[kbi_1] = 4,098,996.22
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 14:30:03. Net worth = $4,098,996.22
+✅ MySQL Nav[kbi_1] = 4,069,151.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 18:30:03. Net worth = $4,069,151.89
+✅ MySQL Nav[kbi_1] = 4,083,298.21
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 20:30:03. Net worth = $4,083,298.21
+✅ MySQL Nav[kbi_1] = 4,098,386.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-01 22:30:03. Net worth = $4,098,386.61
+✅ MySQL Nav[kbi_1] = 4,157,658.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 00:30:03. Net worth = $4,157,658.74
+✅ MySQL Nav[kbi_1] = 4,173,769.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 06:30:03. Net worth = $4,173,769.52
+✅ MySQL Nav[kbi_1] = 4,157,537.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 08:30:03. Net worth = $4,157,537.93
+✅ MySQL Nav[kbi_1] = 4,139,146.51
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 12:30:03. Net worth = $4,139,146.51
+✅ MySQL Nav[kbi_1] = 4,117,524.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 14:30:03. Net worth = $4,117,524.00
+✅ MySQL Nav[kbi_1] = 4,120,636.11
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 18:30:03. Net worth = $4,120,636.11
+✅ MySQL Nav[kbi_1] = 4,127,477.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 20:30:03. Net worth = $4,127,477.56
+✅ MySQL Nav[kbi_1] = 4,101,961.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-02 22:30:02. Net worth = $4,101,961.58
+✅ MySQL Nav[kbi_1] = 4,133,010.75
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 00:30:03. Net worth = $4,133,010.75
+✅ MySQL Nav[kbi_1] = 4,130,164.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 06:30:03. Net worth = $4,130,164.71
+✅ MySQL Nav[kbi_1] = 4,170,583.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 08:30:03. Net worth = $4,170,583.15
+✅ MySQL Nav[kbi_1] = 4,240,124.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 12:30:03. Net worth = $4,240,124.18
+✅ MySQL Nav[kbi_1] = 4,256,592.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 14:30:03. Net worth = $4,256,592.42
+✅ MySQL Nav[kbi_1] = 4,161,740.76
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 18:30:02. Net worth = $4,161,740.76
+✅ MySQL Nav[kbi_1] = 4,241,851.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 20:30:03. Net worth = $4,241,851.70
+✅ MySQL Nav[kbi_1] = 4,236,371.08
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-03 22:30:03. Net worth = $4,236,371.08
+✅ MySQL Nav[kbi_1] = 4,206,075.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 00:30:03. Net worth = $4,206,075.58
+✅ MySQL Nav[kbi_1] = 4,172,125.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 06:30:03. Net worth = $4,172,125.38
+✅ MySQL Nav[kbi_1] = 4,196,096.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 08:30:03. Net worth = $4,196,096.98
+✅ MySQL Nav[kbi_1] = 4,103,615.77
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 12:30:03. Net worth = $4,103,615.77
+✅ MySQL Nav[kbi_1] = 4,116,568.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 14:30:03. Net worth = $4,116,568.25
+✅ MySQL Nav[kbi_1] = 4,117,425.43
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 18:30:03. Net worth = $4,117,425.43
+✅ MySQL Nav[kbi_1] = 4,143,095.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 20:30:03. Net worth = $4,143,095.65
+✅ MySQL Nav[kbi_1] = 4,126,337.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-04 22:30:03. Net worth = $4,126,337.62
+✅ MySQL Nav[kbi_1] = 4,113,155.49
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 00:30:03. Net worth = $4,113,155.49
+✅ MySQL Nav[kbi_1] = 4,182,468.17
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 06:30:03. Net worth = $4,182,468.17
+✅ MySQL Nav[kbi_1] = 4,213,252.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 08:30:03. Net worth = $4,213,252.72
+✅ MySQL Nav[kbi_1] = 4,108,680.20
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 12:30:02. Net worth = $4,108,680.20
+✅ MySQL Nav[kbi_1] = 4,103,648.93
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 14:30:03. Net worth = $4,103,648.93
+✅ MySQL Nav[kbi_1] = 3,859,455.85
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 18:30:02. Net worth = $3,859,455.85
+✅ MySQL Nav[kbi_1] = 3,862,259.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 20:30:03. Net worth = $3,862,259.37
+✅ MySQL Nav[kbi_1] = 3,863,580.36
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-05 22:30:03. Net worth = $3,863,580.36
+✅ MySQL Nav[kbi_1] = 3,873,884.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 00:30:03. Net worth = $3,873,884.35
+✅ MySQL Nav[kbi_1] = 3,851,243.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 06:30:03. Net worth = $3,851,243.97
+✅ MySQL Nav[kbi_1] = 3,846,556.48
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 08:30:03. Net worth = $3,846,556.48
+✅ MySQL Nav[kbi_1] = 3,838,634.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 12:30:03. Net worth = $3,838,634.53
+✅ MySQL Nav[kbi_1] = 3,831,241.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 14:30:02. Net worth = $3,831,241.52
+✅ MySQL Nav[kbi_1] = 3,830,388.83
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 18:30:03. Net worth = $3,830,388.83
+✅ MySQL Nav[kbi_1] = 3,836,941.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 20:30:03. Net worth = $3,836,941.47
+✅ MySQL Nav[kbi_1] = 3,847,030.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-06 22:30:03. Net worth = $3,847,030.15
+✅ MySQL Nav[kbi_1] = 3,853,830.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 00:30:03. Net worth = $3,853,830.97
+✅ MySQL Nav[kbi_1] = 3,855,628.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 06:30:03. Net worth = $3,855,628.47
+✅ MySQL Nav[kbi_1] = 3,860,089.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 08:30:03. Net worth = $3,860,089.30
+✅ MySQL Nav[kbi_1] = 3,857,661.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 12:30:02. Net worth = $3,857,661.53
+✅ MySQL Nav[kbi_1] = 3,839,066.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 14:30:03. Net worth = $3,839,066.60
+✅ MySQL Nav[kbi_1] = 3,849,270.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 18:30:03. Net worth = $3,849,270.37
+✅ MySQL Nav[kbi_1] = 3,878,880.92
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 20:30:03. Net worth = $3,878,880.92
+✅ MySQL Nav[kbi_1] = 3,844,244.80
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-07 22:30:03. Net worth = $3,844,244.80
+✅ MySQL Nav[kbi_1] = 3,863,228.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 00:30:03. Net worth = $3,863,228.32
+✅ MySQL Nav[kbi_1] = 3,878,667.86
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 06:30:03. Net worth = $3,878,667.86
+✅ MySQL Nav[kbi_1] = 3,870,192.73
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 08:30:03. Net worth = $3,870,192.73
+✅ MySQL Nav[kbi_1] = 3,927,748.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 12:30:03. Net worth = $3,927,748.00
+✅ MySQL Nav[kbi_1] = 3,898,884.37
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 14:30:03. Net worth = $3,898,884.37
+✅ MySQL Nav[kbi_1] = 3,871,892.34
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 18:30:03. Net worth = $3,871,892.34
+✅ MySQL Nav[kbi_1] = 3,868,131.09
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 20:30:03. Net worth = $3,868,131.09
+✅ MySQL Nav[kbi_1] = 4,109,477.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-08 22:30:03. Net worth = $4,109,477.84
+✅ MySQL Nav[kbi_1] = 4,119,997.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 00:30:03. Net worth = $4,119,997.96
+✅ MySQL Nav[kbi_1] = 4,182,191.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 06:30:03. Net worth = $4,182,191.53
+✅ MySQL Nav[kbi_1] = 4,170,218.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 08:30:03. Net worth = $4,170,218.98
+✅ MySQL Nav[kbi_1] = 4,109,813.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 12:30:03. Net worth = $4,109,813.63
+✅ MySQL Nav[kbi_1] = 4,100,478.00
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 14:30:04. Net worth = $4,100,478.00
+✅ MySQL Nav[kbi_1] = 4,116,883.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 18:30:04. Net worth = $4,116,883.63
+✅ MySQL Nav[kbi_1] = 4,123,344.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 20:30:03. Net worth = $4,123,344.57
+✅ MySQL Nav[kbi_1] = 4,113,378.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-09 22:30:03. Net worth = $4,113,378.15
+✅ MySQL Nav[kbi_1] = 4,124,543.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 00:30:03. Net worth = $4,124,543.40
+✅ MySQL Nav[kbi_1] = 4,143,301.04
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 06:30:03. Net worth = $4,143,301.04
+✅ MySQL Nav[kbi_1] = 4,148,434.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 08:30:03. Net worth = $4,148,434.59
+❌ Falló la consulta a DeBank: HTTPSConnectionPool(host='pro-openapi.debank.com', port=443): Max retries exceeded with url: /v1/user/total_balance?id=0xaD920e4870b3Ff09D56261F571955990200b863e (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb5c32ed0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+✅ MySQL Nav[kbi_1] = 4,176,481.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 14:30:04. Net worth = $4,176,481.41
+✅ MySQL Nav[kbi_1] = 4,167,486.40
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 18:30:04. Net worth = $4,167,486.40
+✅ MySQL Nav[kbi_1] = 4,177,919.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 20:30:03. Net worth = $4,177,919.56
+✅ MySQL Nav[kbi_1] = 4,197,334.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-10 22:30:03. Net worth = $4,197,334.52
+✅ MySQL Nav[kbi_1] = 4,214,914.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 00:30:03. Net worth = $4,214,914.15
+✅ MySQL Nav[kbi_1] = 4,228,489.44
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 06:30:03. Net worth = $4,228,489.44
+✅ MySQL Nav[kbi_1] = 4,235,615.62
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 08:30:03. Net worth = $4,235,615.62
+✅ MySQL Nav[kbi_1] = 4,233,960.15
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 12:30:03. Net worth = $4,233,960.15
+✅ MySQL Nav[kbi_1] = 4,242,301.35
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 14:30:03. Net worth = $4,242,301.35
+✅ MySQL Nav[kbi_1] = 4,236,188.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 18:30:03. Net worth = $4,236,188.38
+✅ MySQL Nav[kbi_1] = 4,275,787.96
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 20:30:03. Net worth = $4,275,787.96
+✅ MySQL Nav[kbi_1] = 4,323,735.25
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-11 22:30:03. Net worth = $4,323,735.25
+✅ MySQL Nav[kbi_1] = 4,302,136.65
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 00:30:03. Net worth = $4,302,136.65
+✅ MySQL Nav[kbi_1] = 4,310,751.19
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 06:30:03. Net worth = $4,310,751.19
+✅ MySQL Nav[kbi_1] = 4,324,326.31
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 08:30:03. Net worth = $4,324,326.31
+✅ MySQL Nav[kbi_1] = 4,321,687.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 12:30:03. Net worth = $4,321,687.02
+✅ MySQL Nav[kbi_1] = 4,371,356.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 14:30:03. Net worth = $4,371,356.71
+✅ MySQL Nav[kbi_1] = 4,421,624.91
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 18:30:03. Net worth = $4,421,624.91
+✅ MySQL Nav[kbi_1] = 4,455,090.16
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 20:30:03. Net worth = $4,455,090.16
+✅ MySQL Nav[kbi_1] = 4,458,048.81
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-12 22:30:03. Net worth = $4,458,048.81
+✅ MySQL Nav[kbi_1] = 4,466,215.28
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 00:30:03. Net worth = $4,466,215.28
+✅ MySQL Nav[kbi_1] = 4,463,135.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 06:30:04. Net worth = $4,463,135.70
+✅ MySQL Nav[kbi_1] = 4,458,292.05
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 08:30:03. Net worth = $4,458,292.05
+✅ MySQL Nav[kbi_1] = 4,434,563.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 12:30:03. Net worth = $4,434,563.71
+✅ MySQL Nav[kbi_1] = 4,388,214.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 14:30:03. Net worth = $4,388,214.90
+✅ MySQL Nav[kbi_1] = 4,423,444.56
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 18:30:03. Net worth = $4,423,444.56
+✅ MySQL Nav[kbi_1] = 4,420,891.61
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 20:30:04. Net worth = $4,420,891.61
+✅ MySQL Nav[kbi_1] = 4,419,287.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-13 22:30:03. Net worth = $4,419,287.60
+✅ MySQL Nav[kbi_1] = 4,428,341.89
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 00:30:03. Net worth = $4,428,341.89
+✅ MySQL Nav[kbi_1] = 4,427,665.63
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 06:30:04. Net worth = $4,427,665.63
+✅ MySQL Nav[kbi_1] = 4,406,442.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 08:30:03. Net worth = $4,406,442.97
+✅ MySQL Nav[kbi_1] = 4,364,673.10
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 12:30:03. Net worth = $4,364,673.10
+✅ MySQL Nav[kbi_1] = 4,388,259.68
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 14:30:03. Net worth = $4,388,259.68
+✅ MySQL Nav[kbi_1] = 4,390,056.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 18:30:03. Net worth = $4,390,056.59
+✅ MySQL Nav[kbi_1] = 4,381,207.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 20:30:03. Net worth = $4,381,207.60
+✅ MySQL Nav[kbi_1] = 4,372,337.97
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-14 22:30:03. Net worth = $4,372,337.97
+✅ MySQL Nav[kbi_1] = 4,395,443.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 00:30:03. Net worth = $4,395,443.74
+✅ MySQL Nav[kbi_1] = 4,320,399.02
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 06:30:03. Net worth = $4,320,399.02
+✅ MySQL Nav[kbi_1] = 4,318,761.70
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 08:30:03. Net worth = $4,318,761.70
+✅ MySQL Nav[kbi_1] = 4,288,883.55
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 12:30:03. Net worth = $4,288,883.55
+✅ MySQL Nav[kbi_1] = 4,287,060.42
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 14:30:03. Net worth = $4,287,060.42
+✅ MySQL Nav[kbi_1] = 4,315,577.84
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 18:30:03. Net worth = $4,315,577.84
+✅ MySQL Nav[kbi_1] = 4,322,671.53
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 20:30:03. Net worth = $4,322,671.53
+✅ MySQL Nav[kbi_1] = 4,326,536.14
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-15 22:30:03. Net worth = $4,326,536.14
+✅ MySQL Nav[kbi_1] = 4,314,902.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 00:30:03. Net worth = $4,314,902.98
+✅ MySQL Nav[kbi_1] = 4,311,936.38
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 06:30:03. Net worth = $4,311,936.38
+✅ MySQL Nav[kbi_1] = 4,304,200.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 08:30:03. Net worth = $4,304,200.52
+✅ MySQL Nav[kbi_1] = 4,263,525.60
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 12:30:03. Net worth = $4,263,525.60
+✅ MySQL Nav[kbi_1] = 4,322,397.58
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 14:30:03. Net worth = $4,322,397.58
+✅ MySQL Nav[kbi_1] = 4,316,429.52
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 18:30:04. Net worth = $4,316,429.52
+✅ MySQL Nav[kbi_1] = 4,324,133.80
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 20:30:03. Net worth = $4,324,133.80
+✅ MySQL Nav[kbi_1] = 4,331,473.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-16 22:30:03. Net worth = $4,331,473.98
+✅ MySQL Nav[kbi_1] = 4,331,781.18
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 00:30:03. Net worth = $4,331,781.18
+✅ MySQL Nav[kbi_1] = 4,325,088.76
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 06:30:03. Net worth = $4,325,088.76
+✅ MySQL Nav[kbi_1] = 4,311,366.90
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 08:30:03. Net worth = $4,311,366.90
+✅ MySQL Nav[kbi_1] = 4,296,329.98
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 12:30:03. Net worth = $4,296,329.98
+✅ MySQL Nav[kbi_1] = 4,297,226.47
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 14:30:03. Net worth = $4,297,226.47
+✅ MySQL Nav[kbi_1] = 4,322,000.41
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 18:30:03. Net worth = $4,322,000.41
+✅ MySQL Nav[kbi_1] = 4,379,745.49
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 20:30:03. Net worth = $4,379,745.49
+✅ MySQL Nav[kbi_1] = 4,394,403.74
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-17 22:30:03. Net worth = $4,394,403.74
+✅ MySQL Nav[kbi_1] = 4,420,914.71
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 00:30:03. Net worth = $4,420,914.71
+✅ MySQL Nav[kbi_1] = 4,396,257.64
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 06:30:03. Net worth = $4,396,257.64
+✅ MySQL Nav[kbi_1] = 4,382,533.30
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 08:30:03. Net worth = $4,382,533.30
+✅ MySQL Nav[kbi_1] = 4,389,660.57
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 12:30:03. Net worth = $4,389,660.57
+✅ MySQL Nav[kbi_1] = 4,403,506.32
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 14:30:03. Net worth = $4,403,506.32
+✅ MySQL Nav[kbi_1] = 4,393,286.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 18:30:03. Net worth = $4,393,286.87
+✅ MySQL Nav[kbi_1] = 4,374,916.67
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 20:30:03. Net worth = $4,374,916.67
+✅ MySQL Nav[kbi_1] = 4,407,626.39
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-18 22:30:03. Net worth = $4,407,626.39
+✅ MySQL Nav[kbi_1] = 4,377,509.59
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-19 00:30:03. Net worth = $4,377,509.59
+✅ MySQL Nav[kbi_1] = 4,343,589.45
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-19 06:30:04. Net worth = $4,343,589.45
+✅ MySQL Nav[kbi_1] = 4,327,266.72
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-19 08:30:03. Net worth = $4,327,266.72
+✅ MySQL Nav[kbi_1] = 4,288,568.87
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-19 12:30:03. Net worth = $4,288,568.87
+✅ MySQL Nav[kbi_1] = 4,291,508.80
+✅ Google Sheet 'KB CAPITAL NEW' RAW actualizada para fundid 1.
+
+Proceso completado a las 2025-09-19 14:30:03. Net worth = $4,291,508.80
